@@ -27,7 +27,7 @@ Store all data into `./data` folder. Feel free to put big files in this fold bec
 - Yicheng Lin 111583117
 
 ## Hypothesis
-![plot.png]
+![plot.png](https://github.com/xuan-li/CSE-544-Project/blob/master/plot.png)
 Hypothesis 1: Access per minite distributions of two different weekdays are the same.
 
 Hypothesis 2: Access per minite distribution of one day is a normal distribution.
