@@ -3,7 +3,7 @@ CSE-544-Project
 
 ## Data
 
-Data can be downloaded from [here](!http://www.wikibench.eu/wiki/2007-09/).
+Data can be downloaded from [here](http://www.wikibench.eu/?page_id=60).
 
 Each entry of data has the following information:
 - A monotonically increasing counter (useful for sorting the trace in chronological order)
