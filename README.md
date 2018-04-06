@@ -37,25 +37,40 @@ Store all data into `./data` folder. Feel free to put big files in this fold bec
 
 ## Topics
 ### Events:
+
   - Visits of corresponding entries around big events are high than normal times.
   - Update frequency of corresponding entries around big events are high than normal times.
   - Big events may cause related entries  
   - Visits per day of new entries follow long-tail distributions. 
+  
 ### Times:
+
   - Peaks in one day for each lemma is roughly the same
   - Visits per day in weekends are more than weekdays for each entries.
+  
 ### Languages:
+
   - Culture-related entries are in different level of hottness in different languages.
+  
 ### Search Ranks:
+
   - Hotter entries has higher rank in google search results.
+  
 ### Redirections:
+
   - Redirections contribute to visits.
   - Visits have correlations with the order of redirections.
+  
 ### Categories:
+
   - Different categories have different levels of attentions: entertainment-related entries are hotter than academic entries.
+  
 ### Page Sizes:
+
   - Hotter entries have larger page sizes.
+  
 ### Level of Difficulties:
+
   - The hottest entry under each category is not a common word.
 
 
