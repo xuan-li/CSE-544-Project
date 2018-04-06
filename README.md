@@ -45,7 +45,7 @@ Store all data into `./data` folder. Feel free to put big files in this fold bec
   
 ### Times:
 
-- Peaks in one day for each lemma is roughly the same
+- Peaks in one day for each lemma is roughly the same.
 - Visits per day in weekends are more than weekdays for each entries.
   
 ### Languages:
