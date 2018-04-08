@@ -38,39 +38,41 @@ Store all data into `./data` folder. Feel free to put big files in this fold bec
 ## Topics
 ### Events:
 
-- Visits of corresponding entries around big events are high than normal times.
-- Update frequency of corresponding entries around big events are high than normal times.
-- Big events may cause related entries  
-- Visits per day of new entries follow long-tail distributions. 
-  
+After a big event happends:
+- Visits of corresponding entries will increase.
+- Update frequency of corresponding entries will increase.
+- New entries will be created
+- Visits frequency follows Poisson distributions (with `x` is time delay after the event happening and `y` is the). 
+ visit frequency)
+ 
 ### Times:
 
-- Peaks in one day for each lemma is roughly the same.
-- Visits per day in weekends are more than weekdays for each entries.
+- Visit frequency is a periodic function with period equal to 24 hours.
+- ~~Visit frequency of some entries in weekends is higher than that of weekdays. ()~~
   
 ### Languages:
 
-- Culture-related entries are in different level of hottness in different languages.
+- ~~Culture-related entries are in different level of hottness in different languages.~~
   
 ### Search Ranks:
 
-- Hotter entries has higher rank in google search results.
+- Popular entries have higher rank in google search results.
   
 ### Redirections:
 
-- Redirections contribute to visits.
-- Visits have correlations with the order of redirections.
+- ~~Redirections contribute to visits.~~
+- ~~Visits have correlations with the order of redirections.~~
   
 ### Categories:
 
-- Different categories have different levels of attentions: entertainment-related entries are hotter than academic entries.
+- The popularity of different categories has different levels of attentions, e.g. entertainment-related entries are more popular than academic entries.
   
 ### Page Sizes:
 
-- Hotter entries have larger page sizes.
+- Popular entries have larger page sizes.
   
 ### Level of Difficulties:
 
-- The hottest entry under each category is not a common word.
+- The most popular entry under each category is not a common used term.
 
 
