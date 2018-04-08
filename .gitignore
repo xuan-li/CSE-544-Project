@@ -1,4 +1,5 @@
 .checkpoint
+*_checkpoint
 .pyc
 .DS_Store
 ./data
