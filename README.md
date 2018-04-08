@@ -48,11 +48,11 @@ After a big event happends:
 ### Times:
 
 - Visit frequency is a periodic function with period equal to 24 hours.
-- ~~Visit frequency of some entries in weekends is higher than that of weekdays. ()~~
+- Visit frequency of some entries in weekends is higher than that of weekdays.
   
 ### Languages:
 
-- ~~Culture-related entries are in different level of hottness in different languages.~~
+- Culture-related entries are in different level of hottness in different languages.
   
 ### Search Ranks:
 
@@ -60,9 +60,9 @@ After a big event happends:
   
 ### Redirections:
 
-- ~~Redirections contribute to visits.~~
-- ~~Visits have correlations with the order of redirections.~~
-  
+- Visits have correlations with the order of redirections.
+- Redirection relations form a graph. The visit frequency of one node is related with the degree of that node.
+
 ### Categories:
 
 - The popularity of different categories has different levels of attentions, e.g. entertainment-related entries are more popular than academic entries.
