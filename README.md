@@ -42,7 +42,7 @@ After a big event happends:
 - Visits of corresponding entries will increase.
 - Update frequency of corresponding entries will increase.
 - New entries will be created
-- Visits frequency follows Poisson distributions (with `x` is time delay after the event happening and `y` is the). 
+- Visits frequency follows Poisson distributions (with `x` is time delay after the event happening and `y` is the 
  visit frequency)
  
 ### Times:
