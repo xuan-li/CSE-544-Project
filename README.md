@@ -33,7 +33,7 @@ Store all data into `./data` folder. Feel free to put big files in this fold bec
 - Yicheng Lin 111583117
 
 ## Hypothesis
-![plot.png](https://github.com/xuan-li/CSE-544-Project/blob/master/plot.png)
+![plot.png](plot.png)
 
 ## Topics
 ### Events:
