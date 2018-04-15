@@ -36,7 +36,7 @@ Store all data into `./data` folder. Feel free to put big files in this fold bec
 ![plot.png](plot.png)
 
 ## Topics
-### Events:
+### Events (Xuan Xu, Yunqing Yang):
 
 After a big event happends:
 - Visits of corresponding entries will increase.
@@ -45,33 +45,33 @@ After a big event happends:
 - Visits frequency follows Poisson distributions (with `x` is time delay after the event happening and `y` is the 
  visit frequency)
  
-### Times:
+### Times (TBD):
 
 - Visit frequency is a periodic function with period equal to 24 hours.
 - Visit frequency of some entries in weekends is higher than that of weekdays.
   
-### Languages:
+### Languages (Hongyi Duanmu):
 
 - Culture-related entries are in different level of hottness in different languages.
   
-### Search Ranks:
+### Search Ranks (Xuan Li):
 
 - Popular entries have higher rank in google search results.
   
-### Redirections:
+### Redirections (TBD):
 
 - Visits have correlations with the order of redirections.
 - Redirection relations form a graph. The visit frequency of one node is related with the degree of that node.
 
-### Categories:
+### Categories (Xiaofei Sun):
 
 - The popularity of different categories has different levels of attentions, e.g. entertainment-related entries are more popular than academic entries.
   
-### Page Sizes:
+### Page Sizes (Xiaofei Sun):
 
 - Popular entries have larger page sizes.
   
-### Level of Difficulties:
+### Level of Difficulties (Xiaofei Sun):
 
 - The most popular entry under each category is not a common used term.
 
