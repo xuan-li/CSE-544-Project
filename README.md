@@ -54,9 +54,13 @@ After a big event happends:
 
 - Culture-related entries are in different level of hottness in different languages.
   
-### Search Ranks (Xuan Li):
+### Revision Records Digging (Xuan Li):
 
-- Popular entries have higher rank in google search results.
+- Access frequency with Update frequency
+- Vandalism with access frequency
+- Vandalism respond times with frequency
+- Recovery by ClueBot with access frequency
+
   
 ### Redirections (TBD):
 
