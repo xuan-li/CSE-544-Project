@@ -57,9 +57,9 @@ After a big event happends:
 ### Revision Records Digging (Xuan Li):
 
 - Access frequency with Update frequency
-- Vandalism with access frequency
+- #Vandalism with access frequency
 - Vandalism respond times with frequency
-- Recovery by ClueBot with access frequency
+- #Recovery by ClueBot with access frequency
 
   
 ### Redirections (TBD):
