@@ -45,10 +45,11 @@ After a big event happends:
 - Visits frequency follows Poisson distributions (with `x` is time delay after the event happening and `y` is the 
  visit frequency)
  
-### Times (TBD):
+### Times (Keyi):
 
 - Visit frequency is a periodic function with period equal to 24 hours.
 - Visit frequency of some entries in weekends is higher than that of weekdays.
+- Distribution of ranges of access per hour per day.
   
 ### Languages (Hongyi Duanmu):
 
@@ -62,10 +63,10 @@ After a big event happends:
 - #Recovery by ClueBot with access frequency
 
   
-### Redirections (TBD):
+### Page Content (Yicheng):
 
-- Visits have correlations with the order of redirections.
-- Redirection relations form a graph. The visit frequency of one node is related with the degree of that node.
+- Hotter words have more embedded-in links towards other entry
+- Hotter words have more images
 
 ### Categories (Xiaofei Sun):
 
