@@ -1,0 +1,2773 @@
+[I 02:26:58.063 NotebookApp] Serving notebooks from local directory: /home/xuanli2/CSE-544-Project
+[I 02:26:58.063 NotebookApp] 0 active kernels
+[I 02:26:58.064 NotebookApp] The Jupyter Notebook is running at:
+[I 02:26:58.064 NotebookApp] http://0.0.0.0:8888/
+[I 02:26:58.064 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 02:27:10.868 NotebookApp] 302 GET /notebooks/Spider.ipynb (130.245.70.68) 1.32ms
+[W 02:27:11.450 NotebookApp] Couldn't authenticate WebSocket connection
+[W 02:27:11.456 NotebookApp] 403 GET /api/kernels/d23fa8c5-62ab-4830-b252-a8cc12b19ef6/channels?session_id=dee568caddf24e728c10e0c53a6a2130 (130.245.68.60) 7.98ms referer=None
+[W 02:27:12.446 NotebookApp] Couldn't authenticate WebSocket connection
+[W 02:27:12.448 NotebookApp] 403 GET /api/kernels/26b7b9e8-e253-4372-a726-c5813ed9cb7e/channels?session_id=e964179ff7b2454aa67c1f56bfb782b1 (130.245.68.60) 3.04ms referer=None
+[I 02:27:12.820 NotebookApp] 302 POST /login?next=%2Fnotebooks%2FSpider.ipynb (130.245.70.68) 1.24ms
+[I 02:27:14.444 NotebookApp] Kernel started: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:27:15.232 NotebookApp] Adapting to protocol v5.1 for kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:27:15.858 NotebookApp] Kernel started: 3a960d47-43b2-49ad-95fb-c37bd535cb86
+[I 02:27:16.371 NotebookApp] Adapting to protocol v5.1 for kernel 3a960d47-43b2-49ad-95fb-c37bd535cb86
+[W 02:27:31.412 NotebookApp] Forbidden
+[W 02:27:31.413 NotebookApp] 403 GET /api/terminals?_=1524876937055 (130.245.192.0) 1.11ms referer=http://35.196.26.71:8888/tree/data
+[W 02:27:31.414 NotebookApp] Forbidden
+[W 02:27:31.414 NotebookApp] 403 GET /api/sessions?_=1524876937054 (130.245.192.0) 0.77ms referer=http://35.196.26.71:8888/tree/data
+[I 02:27:32.200 NotebookApp] 302 GET /tree/data (130.245.192.0) 0.86ms
+[I 02:27:44.581 NotebookApp] 302 POST /login?next=%2Ftree%2Fdata (130.245.192.0) 1.24ms
+[I 02:27:59.696 NotebookApp] Kernel started: bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:28:00.237 NotebookApp] Adapting to protocol v5.1 for kernel bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:28:01.104 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:28:01.854 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:28:05.475 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:28:08.138 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:28:11.010 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:28:13.693 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:28:15.409 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:28:16.768 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:28:22.310 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:29:15.895 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:29:33.518 NotebookApp] Adapting to protocol v5.1 for kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:29:33.616 NotebookApp] zmq message arrived on closed channel
+[W 02:29:33.620 NotebookApp] zmq message arrived on closed channel
+[W 02:29:34.207 NotebookApp] zmq message arrived on closed channel
+[W 02:29:34.208 NotebookApp] zmq message arrived on closed channel
+[W 02:29:38.826 NotebookApp] zmq message arrived on closed channel
+[W 02:29:38.835 NotebookApp] zmq message arrived on closed channel
+[W 02:29:39.497 NotebookApp] zmq message arrived on closed channel
+[W 02:29:40.638 NotebookApp] zmq message arrived on closed channel
+[W 02:29:40.639 NotebookApp] zmq message arrived on closed channel
+[W 02:29:40.694 NotebookApp] zmq message arrived on closed channel
+[W 02:29:43.191 NotebookApp] zmq message arrived on closed channel
+[W 02:29:43.192 NotebookApp] zmq message arrived on closed channel
+[W 02:29:43.291 NotebookApp] zmq message arrived on closed channel
+[W 02:29:43.294 NotebookApp] zmq message arrived on closed channel
+[I 02:29:59.856 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 02:30:13.505 NotebookApp] 302 GET /notebooks/Page_Length.ipynb (130.245.70.141) 1.10ms
+[W 02:30:14.476 NotebookApp] zmq message arrived on closed channel
+[W 02:30:14.480 NotebookApp] zmq message arrived on closed channel
+[W 02:30:14.546 NotebookApp] zmq message arrived on closed channel
+[W 02:30:14.549 NotebookApp] zmq message arrived on closed channel
+[I 02:30:16.707 NotebookApp] 302 POST /login?next=%2Fnotebooks%2FPage_Length.ipynb (130.245.70.141) 1.15ms
+[I 02:30:17.438 NotebookApp] Kernel started: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 02:30:17.985 NotebookApp] Adapting to protocol v5.1 for kernel 64b27647-6d23-48e5-98d0-753c71bb05b0
+[W 02:30:38.819 NotebookApp] zmq message arrived on closed channel
+[W 02:30:38.821 NotebookApp] zmq message arrived on closed channel
+[W 02:30:38.935 NotebookApp] zmq message arrived on closed channel
+[W 02:30:38.937 NotebookApp] zmq message arrived on closed channel
+[W 02:30:41.728 NotebookApp] zmq message arrived on closed channel
+[W 02:30:41.729 NotebookApp] zmq message arrived on closed channel
+[W 02:30:41.732 NotebookApp] zmq message arrived on closed channel
+[W 02:30:41.734 NotebookApp] zmq message arrived on closed channel
+[W 02:30:43.672 NotebookApp] zmq message arrived on closed channel
+[W 02:30:43.676 NotebookApp] zmq message arrived on closed channel
+[W 02:30:43.679 NotebookApp] zmq message arrived on closed channel
+[W 02:30:43.680 NotebookApp] zmq message arrived on closed channel
+[W 02:30:46.327 NotebookApp] zmq message arrived on closed channel
+[W 02:30:46.330 NotebookApp] zmq message arrived on closed channel
+[W 02:30:46.332 NotebookApp] zmq message arrived on closed channel
+[W 02:30:46.333 NotebookApp] zmq message arrived on closed channel
+[W 02:30:49.051 NotebookApp] zmq message arrived on closed channel
+[W 02:30:49.054 NotebookApp] zmq message arrived on closed channel
+[W 02:30:49.056 NotebookApp] zmq message arrived on closed channel
+[W 02:30:49.058 NotebookApp] zmq message arrived on closed channel
+[I 02:30:51.205 NotebookApp] Saving file at /Spider.ipynb
+[I 02:30:52.404 NotebookApp] Saving file at /Spider.ipynb
+[W 02:30:53.304 NotebookApp] zmq message arrived on closed channel
+[W 02:30:53.305 NotebookApp] zmq message arrived on closed channel
+[W 02:30:53.307 NotebookApp] zmq message arrived on closed channel
+[W 02:30:53.310 NotebookApp] zmq message arrived on closed channel
+[W 02:31:05.534 NotebookApp] zmq message arrived on closed channel
+[W 02:31:05.536 NotebookApp] zmq message arrived on closed channel
+[W 02:31:05.538 NotebookApp] zmq message arrived on closed channel
+[W 02:31:05.540 NotebookApp] zmq message arrived on closed channel
+[I 02:31:08.142 NotebookApp] Kernel interrupted: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[W 02:31:09.119 NotebookApp] zmq message arrived on closed channel
+[W 02:31:09.120 NotebookApp] zmq message arrived on closed channel
+[W 02:31:09.122 NotebookApp] zmq message arrived on closed channel
+[W 02:31:09.125 NotebookApp] zmq message arrived on closed channel
+[W 02:31:10.957 NotebookApp] zmq message arrived on closed channel
+[W 02:31:10.958 NotebookApp] zmq message arrived on closed channel
+[W 02:31:10.960 NotebookApp] zmq message arrived on closed channel
+[W 02:31:10.962 NotebookApp] zmq message arrived on closed channel
+[W 02:31:11.801 NotebookApp] zmq message arrived on closed channel
+[W 02:31:11.803 NotebookApp] zmq message arrived on closed channel
+[W 02:31:11.805 NotebookApp] zmq message arrived on closed channel
+[W 02:31:11.807 NotebookApp] zmq message arrived on closed channel
+[W 02:31:14.246 NotebookApp] zmq message arrived on closed channel
+[W 02:31:14.248 NotebookApp] zmq message arrived on closed channel
+[W 02:31:14.250 NotebookApp] zmq message arrived on closed channel
+[W 02:31:14.251 NotebookApp] zmq message arrived on closed channel
+[W 02:31:15.068 NotebookApp] zmq message arrived on closed channel
+[W 02:31:15.070 NotebookApp] zmq message arrived on closed channel
+[W 02:31:15.072 NotebookApp] zmq message arrived on closed channel
+[W 02:31:15.074 NotebookApp] zmq message arrived on closed channel
+[W 02:31:15.851 NotebookApp] zmq message arrived on closed channel
+[W 02:31:15.853 NotebookApp] zmq message arrived on closed channel
+[W 02:31:15.855 NotebookApp] zmq message arrived on closed channel
+[W 02:31:15.857 NotebookApp] zmq message arrived on closed channel
+[W 02:31:16.700 NotebookApp] zmq message arrived on closed channel
+[W 02:31:16.702 NotebookApp] zmq message arrived on closed channel
+[W 02:31:16.704 NotebookApp] zmq message arrived on closed channel
+[W 02:31:16.706 NotebookApp] zmq message arrived on closed channel
+[I 02:31:34.055 NotebookApp] Saving file at /Spider.ipynb
+[I 02:31:59.882 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 02:32:17.782 NotebookApp] Saving file at /Page_Length.ipynb
+[I 02:33:28.448 NotebookApp] Kernel interrupted: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 02:33:40.693 NotebookApp] Saving file at /Spider.ipynb
+[I 02:33:59.865 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 02:34:17.500 NotebookApp] Saving file at /Page_Length.ipynb
+[W 02:34:26.463 NotebookApp] zmq message arrived on closed channel
+[W 02:34:26.466 NotebookApp] zmq message arrived on closed channel
+[W 02:34:26.467 NotebookApp] zmq message arrived on closed channel
+[W 02:34:31.511 NotebookApp] zmq message arrived on closed channel
+[W 02:34:31.512 NotebookApp] zmq message arrived on closed channel
+[W 02:34:31.620 NotebookApp] zmq message arrived on closed channel
+[W 02:34:31.677 NotebookApp] zmq message arrived on closed channel
+[I 02:34:33.827 NotebookApp] Kernel interrupted: bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[W 02:34:36.575 NotebookApp] zmq message arrived on closed channel
+[W 02:34:36.577 NotebookApp] zmq message arrived on closed channel
+[W 02:34:36.632 NotebookApp] zmq message arrived on closed channel
+[W 02:34:36.634 NotebookApp] zmq message arrived on closed channel
+[W 02:34:38.893 NotebookApp] zmq message arrived on closed channel
+[W 02:34:38.895 NotebookApp] zmq message arrived on closed channel
+[W 02:34:38.938 NotebookApp] zmq message arrived on closed channel
+[W 02:34:38.941 NotebookApp] zmq message arrived on closed channel
+[W 02:34:52.488 NotebookApp] zmq message arrived on closed channel
+[W 02:34:52.491 NotebookApp] zmq message arrived on closed channel
+[W 02:34:52.539 NotebookApp] zmq message arrived on closed channel
+[W 02:34:53.586 NotebookApp] zmq message arrived on closed channel
+[W 02:34:53.588 NotebookApp] zmq message arrived on closed channel
+[W 02:34:53.653 NotebookApp] zmq message arrived on closed channel
+[W 02:34:53.656 NotebookApp] zmq message arrived on closed channel
+[W 02:34:55.017 NotebookApp] zmq message arrived on closed channel
+[W 02:34:55.018 NotebookApp] zmq message arrived on closed channel
+[W 02:34:55.066 NotebookApp] zmq message arrived on closed channel
+[W 02:34:55.069 NotebookApp] zmq message arrived on closed channel
+[I 02:34:57.057 NotebookApp] New terminal with automatic name: 1
+[W 02:35:02.287 NotebookApp] zmq message arrived on closed channel
+[W 02:35:02.289 NotebookApp] zmq message arrived on closed channel
+[W 02:35:02.347 NotebookApp] zmq message arrived on closed channel
+[W 02:35:02.893 NotebookApp] zmq message arrived on closed channel
+[W 02:35:02.893 NotebookApp] zmq message arrived on closed channel
+[W 02:35:02.952 NotebookApp] zmq message arrived on closed channel
+[W 02:35:02.954 NotebookApp] zmq message arrived on closed channel
+[W 02:35:31.557 NotebookApp] zmq message arrived on closed channel
+[W 02:35:31.560 NotebookApp] zmq message arrived on closed channel
+[W 02:35:31.562 NotebookApp] zmq message arrived on closed channel
+[W 02:35:31.564 NotebookApp] zmq message arrived on closed channel
+[I 02:35:33.471 NotebookApp] Saving file at /Spider.ipynb
+[W 02:35:49.727 NotebookApp] zmq message arrived on closed channel
+[W 02:35:49.729 NotebookApp] zmq message arrived on closed channel
+[W 02:35:49.786 NotebookApp] zmq message arrived on closed channel
+[W 02:35:50.570 NotebookApp] zmq message arrived on closed channel
+[W 02:35:50.572 NotebookApp] zmq message arrived on closed channel
+[W 02:35:50.668 NotebookApp] zmq message arrived on closed channel
+[W 02:35:50.716 NotebookApp] zmq message arrived on closed channel
+[W 02:35:53.994 NotebookApp] zmq message arrived on closed channel
+[W 02:35:53.995 NotebookApp] zmq message arrived on closed channel
+[W 02:35:54.058 NotebookApp] zmq message arrived on closed channel
+[W 02:35:54.060 NotebookApp] zmq message arrived on closed channel
+[I 02:35:57.818 NotebookApp] Kernel started: a43e089d-d98e-4f23-8d8d-cec9500dd961
+[I 02:35:58.783 NotebookApp] Adapting to protocol v5.1 for kernel a43e089d-d98e-4f23-8d8d-cec9500dd961
+[I 02:35:59.825 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[W 02:36:09.778 NotebookApp] zmq message arrived on closed channel
+[W 02:36:09.779 NotebookApp] zmq message arrived on closed channel
+[W 02:36:09.844 NotebookApp] zmq message arrived on closed channel
+[W 02:36:09.847 NotebookApp] zmq message arrived on closed channel
+[I 02:36:17.794 NotebookApp] Saving file at /Page_Length.ipynb
+[W 02:36:52.217 NotebookApp] zmq message arrived on closed channel
+[W 02:36:52.220 NotebookApp] zmq message arrived on closed channel
+[W 02:36:52.287 NotebookApp] zmq message arrived on closed channel
+[W 02:36:52.290 NotebookApp] zmq message arrived on closed channel
+[I 02:37:15.341 NotebookApp] Kernel interrupted: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[W 02:37:21.130 NotebookApp] zmq message arrived on closed channel
+[W 02:37:21.131 NotebookApp] zmq message arrived on closed channel
+[W 02:37:22.034 NotebookApp] zmq message arrived on closed channel
+[W 02:37:22.039 NotebookApp] zmq message arrived on closed channel
+[I 02:37:33.501 NotebookApp] Saving file at /Spider.ipynb
+[I 02:37:58.801 NotebookApp] Saving file at /DataClean.ipynb
+[I 02:38:00.747 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 02:38:07.135 NotebookApp] Kernel interrupted: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 02:38:17.498 NotebookApp] Saving file at /Page_Length.ipynb
+[W 02:38:35.191 NotebookApp] zmq message arrived on closed channel
+[W 02:38:35.194 NotebookApp] zmq message arrived on closed channel
+[W 02:38:35.456 NotebookApp] zmq message arrived on closed channel
+[W 02:38:35.461 NotebookApp] zmq message arrived on closed channel
+[W 02:38:37.667 NotebookApp] zmq message arrived on closed channel
+[W 02:38:37.669 NotebookApp] zmq message arrived on closed channel
+[W 02:38:37.825 NotebookApp] zmq message arrived on closed channel
+[W 02:38:37.831 NotebookApp] zmq message arrived on closed channel
+[W 02:38:38.647 NotebookApp] zmq message arrived on closed channel
+[W 02:38:38.649 NotebookApp] zmq message arrived on closed channel
+[W 02:38:38.781 NotebookApp] zmq message arrived on closed channel
+[W 02:38:38.805 NotebookApp] zmq message arrived on closed channel
+[W 02:38:39.488 NotebookApp] zmq message arrived on closed channel
+[W 02:38:39.490 NotebookApp] zmq message arrived on closed channel
+[W 02:38:39.644 NotebookApp] zmq message arrived on closed channel
+[W 02:38:39.647 NotebookApp] zmq message arrived on closed channel
+[W 02:38:40.249 NotebookApp] zmq message arrived on closed channel
+[W 02:38:40.251 NotebookApp] zmq message arrived on closed channel
+[W 02:38:40.403 NotebookApp] zmq message arrived on closed channel
+[W 02:38:40.406 NotebookApp] zmq message arrived on closed channel
+[W 02:38:40.979 NotebookApp] zmq message arrived on closed channel
+[W 02:38:40.980 NotebookApp] zmq message arrived on closed channel
+[W 02:38:41.164 NotebookApp] zmq message arrived on closed channel
+[W 02:38:41.166 NotebookApp] zmq message arrived on closed channel
+[W 02:38:41.701 NotebookApp] zmq message arrived on closed channel
+[W 02:38:41.703 NotebookApp] zmq message arrived on closed channel
+[W 02:38:41.866 NotebookApp] zmq message arrived on closed channel
+[W 02:38:41.870 NotebookApp] zmq message arrived on closed channel
+[W 02:38:42.384 NotebookApp] zmq message arrived on closed channel
+[W 02:38:42.384 NotebookApp] zmq message arrived on closed channel
+[W 02:38:42.567 NotebookApp] zmq message arrived on closed channel
+[W 02:38:42.572 NotebookApp] zmq message arrived on closed channel
+[W 02:38:43.052 NotebookApp] zmq message arrived on closed channel
+[W 02:38:43.054 NotebookApp] zmq message arrived on closed channel
+[W 02:38:43.240 NotebookApp] zmq message arrived on closed channel
+[W 02:38:43.245 NotebookApp] zmq message arrived on closed channel
+[W 02:38:43.872 NotebookApp] zmq message arrived on closed channel
+[W 02:38:43.874 NotebookApp] zmq message arrived on closed channel
+[W 02:38:44.063 NotebookApp] zmq message arrived on closed channel
+[W 02:38:44.066 NotebookApp] zmq message arrived on closed channel
+[W 02:38:44.910 NotebookApp] zmq message arrived on closed channel
+[W 02:38:44.912 NotebookApp] zmq message arrived on closed channel
+[W 02:38:45.058 NotebookApp] zmq message arrived on closed channel
+[W 02:38:45.075 NotebookApp] zmq message arrived on closed channel
+[W 02:38:45.900 NotebookApp] zmq message arrived on closed channel
+[W 02:38:45.901 NotebookApp] zmq message arrived on closed channel
+[W 02:38:46.057 NotebookApp] zmq message arrived on closed channel
+[W 02:38:46.061 NotebookApp] zmq message arrived on closed channel
+[W 02:38:53.970 NotebookApp] zmq message arrived on closed channel
+[W 02:38:53.972 NotebookApp] zmq message arrived on closed channel
+[W 02:38:54.161 NotebookApp] zmq message arrived on closed channel
+[W 02:38:54.166 NotebookApp] zmq message arrived on closed channel
+[W 02:39:10.872 NotebookApp] zmq message arrived on closed channel
+[W 02:39:10.875 NotebookApp] zmq message arrived on closed channel
+[W 02:39:10.877 NotebookApp] zmq message arrived on closed channel
+[W 02:39:10.879 NotebookApp] zmq message arrived on closed channel
+[W 02:39:19.726 NotebookApp] zmq message arrived on closed channel
+[W 02:39:19.729 NotebookApp] zmq message arrived on closed channel
+[W 02:39:19.732 NotebookApp] zmq message arrived on closed channel
+[W 02:39:19.735 NotebookApp] zmq message arrived on closed channel
+[W 02:39:24.523 NotebookApp] zmq message arrived on closed channel
+[W 02:39:24.526 NotebookApp] zmq message arrived on closed channel
+[W 02:39:24.718 NotebookApp] zmq message arrived on closed channel
+[W 02:39:24.721 NotebookApp] zmq message arrived on closed channel
+[I 02:39:33.461 NotebookApp] Saving file at /Spider.ipynb
+[W 02:39:42.525 NotebookApp] zmq message arrived on closed channel
+[W 02:39:42.526 NotebookApp] zmq message arrived on closed channel
+[W 02:39:42.528 NotebookApp] zmq message arrived on closed channel
+[W 02:39:42.530 NotebookApp] zmq message arrived on closed channel
+[W 02:39:47.251 NotebookApp] zmq message arrived on closed channel
+[W 02:39:47.251 NotebookApp] zmq message arrived on closed channel
+[W 02:39:47.253 NotebookApp] zmq message arrived on closed channel
+[W 02:39:47.255 NotebookApp] zmq message arrived on closed channel
+[I 02:39:49.315 NotebookApp] Saving file at /Spider.ipynb
+[I 02:39:59.916 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[W 02:40:06.628 NotebookApp] zmq message arrived on closed channel
+[W 02:40:06.629 NotebookApp] zmq message arrived on closed channel
+[W 02:40:06.631 NotebookApp] zmq message arrived on closed channel
+[W 02:40:06.633 NotebookApp] zmq message arrived on closed channel
+[I 02:40:12.062 NotebookApp] Kernel interrupted: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 02:40:17.519 NotebookApp] Saving file at /Page_Length.ipynb
+[W 02:41:22.868 NotebookApp] zmq message arrived on closed channel
+[W 02:41:22.870 NotebookApp] zmq message arrived on closed channel
+[W 02:41:23.060 NotebookApp] zmq message arrived on closed channel
+[W 02:41:23.082 NotebookApp] zmq message arrived on closed channel
+[I 02:41:27.186 NotebookApp] Kernel started: dbdc5a8c-dc5c-4430-80e5-e827b770dd77
+[I 02:41:28.233 NotebookApp] Adapting to protocol v5.1 for kernel dbdc5a8c-dc5c-4430-80e5-e827b770dd77
+[I 02:41:34.113 NotebookApp] Saving file at /Spider.ipynb
+[I 02:41:48.782 NotebookApp] Kernel interrupted: bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:41:53.991 NotebookApp] Kernel interrupted: bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:41:54.291 NotebookApp] Saving file at /Spider.ipynb
+[I 02:41:55.891 NotebookApp] Starting buffering for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:42:00.915 NotebookApp] Kernel restarted: bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:42:01.039 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 02:42:03.305 NotebookApp] Saving file at /Spider.ipynb
+[I 02:42:04.318 NotebookApp] Starting buffering for dbdc5a8c-dc5c-4430-80e5-e827b770dd77:3c2e456e406a4a778ab7ae64d43b3e0d
+[I 02:42:04.332 NotebookApp] Kernel started: 0c0039a4-fe6b-4cd1-88da-b7496070b0ed
+[I 02:42:04.334 NotebookApp] Adapting to protocol v5.1 for kernel bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[W 02:42:04.336 NotebookApp] zmq message arrived on closed channel
+[W 02:42:04.339 NotebookApp] zmq message arrived on closed channel
+[I 02:42:04.340 NotebookApp] Restoring connection for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:42:04.340 NotebookApp] Replaying 3 buffered messages
+[W 02:42:04.381 NotebookApp] zmq message arrived on closed channel
+[W 02:42:04.383 NotebookApp] zmq message arrived on closed channel
+[I 02:42:06.062 NotebookApp] Adapting to protocol v5.1 for kernel 0c0039a4-fe6b-4cd1-88da-b7496070b0ed
+[I 02:42:17.502 NotebookApp] Saving file at /Page_Length.ipynb
+[W 02:42:18.758 NotebookApp] zmq message arrived on closed channel
+[W 02:42:18.762 NotebookApp] zmq message arrived on closed channel
+[W 02:42:18.863 NotebookApp] zmq message arrived on closed channel
+[W 02:42:19.665 NotebookApp] zmq message arrived on closed channel
+[W 02:42:19.666 NotebookApp] zmq message arrived on closed channel
+[W 02:42:19.713 NotebookApp] zmq message arrived on closed channel
+[W 02:42:19.716 NotebookApp] zmq message arrived on closed channel
+[I 02:42:38.802 NotebookApp] Starting buffering for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:42:39.612 NotebookApp] Kernel restarted: bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:42:43.039 NotebookApp] Kernel started: 65b5a498-aa2c-4381-9953-f4517008ceb4
+[W 02:42:44.605 NotebookApp] zmq message arrived on closed channel
+[W 02:42:44.607 NotebookApp] zmq message arrived on closed channel
+[W 02:42:44.757 NotebookApp] zmq message arrived on closed channel
+[W 02:42:44.907 NotebookApp] zmq message arrived on closed channel
+[W 02:42:44.909 NotebookApp] zmq message arrived on closed channel
+[W 02:42:53.173 NotebookApp] Timeout waiting for kernel_info reply from 65b5a498-aa2c-4381-9953-f4517008ceb4
+[I 02:43:02.913 NotebookApp] Adapting to protocol v5.1 for kernel 65b5a498-aa2c-4381-9953-f4517008ceb4
+[I 02:43:03.578 NotebookApp] Adapting to protocol v5.1 for kernel bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:43:03.578 NotebookApp] Restoring connection for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:43:03.579 NotebookApp] Replaying 6 buffered messages
+[W 02:43:11.445 NotebookApp] zmq message arrived on closed channel
+[W 02:43:11.447 NotebookApp] zmq message arrived on closed channel
+[W 02:43:11.646 NotebookApp] zmq message arrived on closed channel
+[I 02:43:23.873 NotebookApp] Kernel interrupted: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 02:43:33.470 NotebookApp] Saving file at /Spider.ipynb
+[I 02:44:23.735 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:44:24.546 NotebookApp] Kernel restarted: bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:44:26.156 NotebookApp] Kernel restarted: bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:44:27.766 NotebookApp] Kernel restarted: bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:44:29.377 NotebookApp] Kernel restarted: bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[W 02:44:29.381 NotebookApp] Replacing stale connection: bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[E 02:44:29.383 NotebookApp] Uncaught exception GET /api/kernels/bf111ebf-5a80-40f9-a3a4-ef3967d9af90/channels?session_id=52abe3bd9c6d49949816b390d5257f81 (130.245.192.0)
+    HTTPServerRequest(protocol='http', host='35.196.26.71:8888', method='GET', uri='/api/kernels/bf111ebf-5a80-40f9-a3a4-ef3967d9af90/channels?session_id=52abe3bd9c6d49949816b390d5257f81', version='HTTP/1.1', remote_ip='130.245.192.0')
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 02:44:30.050 NotebookApp] Uncaught exception GET /api/kernels/bf111ebf-5a80-40f9-a3a4-ef3967d9af90/channels?session_id=52abe3bd9c6d49949816b390d5257f81 (130.245.192.0)
+    HTTPServerRequest(protocol='http', host='35.196.26.71:8888', method='GET', uri='/api/kernels/bf111ebf-5a80-40f9-a3a4-ef3967d9af90/channels?session_id=52abe3bd9c6d49949816b390d5257f81', version='HTTP/1.1', remote_ip='130.245.192.0')
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[W 02:44:30.052 NotebookApp] zmq message arrived on closed channel
+[E 02:44:30.058 NotebookApp] Exception in callback <bound method WebSocketMixin.send_ping of ZMQChannelsHandler(bf111ebf-5a80-40f9-a3a4-ef3967d9af90)>
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/ioloop.py", line 1209, in _run
+        return self.callback()
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 189, in send_ping
+        self.ping(b'')
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 318, in ping
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 02:44:30.247 NotebookApp] Saving file at /Spider.ipynb
+[E 02:44:31.128 NotebookApp] Uncaught exception GET /api/kernels/bf111ebf-5a80-40f9-a3a4-ef3967d9af90/channels?session_id=52abe3bd9c6d49949816b390d5257f81 (130.245.192.0)
+    HTTPServerRequest(protocol='http', host='35.196.26.71:8888', method='GET', uri='/api/kernels/bf111ebf-5a80-40f9-a3a4-ef3967d9af90/channels?session_id=52abe3bd9c6d49949816b390d5257f81', version='HTTP/1.1', remote_ip='130.245.192.0')
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[W 02:44:31.129 NotebookApp] zmq message arrived on closed channel
+[I 02:44:31.133 NotebookApp] Saving file at /Spider.ipynb
+[I 02:44:31.863 NotebookApp] Saving file at /Spider.ipynb
+[I 02:44:32.531 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:44:32.532 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[E 02:44:32.533 NotebookApp] Uncaught exception GET /api/kernels/bf111ebf-5a80-40f9-a3a4-ef3967d9af90/channels?session_id=52abe3bd9c6d49949816b390d5257f81 (130.245.192.0)
+    HTTPServerRequest(protocol='http', host='35.196.26.71:8888', method='GET', uri='/api/kernels/bf111ebf-5a80-40f9-a3a4-ef3967d9af90/channels?session_id=52abe3bd9c6d49949816b390d5257f81', version='HTTP/1.1', remote_ip='130.245.192.0')
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 02:44:32.536 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:44:32.537 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:44:32.538 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[E 02:44:32.539 NotebookApp] Uncaught exception GET /api/kernels/bf111ebf-5a80-40f9-a3a4-ef3967d9af90/channels?session_id=52abe3bd9c6d49949816b390d5257f81 (130.245.192.0)
+    HTTPServerRequest(protocol='http', host='35.196.26.71:8888', method='GET', uri='/api/kernels/bf111ebf-5a80-40f9-a3a4-ef3967d9af90/channels?session_id=52abe3bd9c6d49949816b390d5257f81', version='HTTP/1.1', remote_ip='130.245.192.0')
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 02:44:33.248 NotebookApp] Kernel restarted: bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[W 02:44:33.253 NotebookApp] zmq message arrived on closed channel
+[I 02:44:33.253 NotebookApp] Starting buffering for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:44:33.260 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 02:44:34.015 NotebookApp] Saving file at /Page_Length.ipynb
+[I 02:44:34.941 NotebookApp] Saving file at /Spider.ipynb
+[I 02:44:35.886 NotebookApp] Saving file at /Spider.ipynb
+[I 02:44:36.545 NotebookApp] Saving file at /Spider.ipynb
+[W 02:44:37.217 NotebookApp] WebSocket ping timeout after 93621 ms.
+[W 02:44:37.220 NotebookApp] zmq message arrived on closed channel
+[E 02:44:37.221 NotebookApp] Uncaught exception GET /api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd (130.245.70.68)
+    HTTPServerRequest(protocol='http', host='35.196.26.71:8888', method='GET', uri='/api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd', version='HTTP/1.1', remote_ip='130.245.70.68')
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 02:44:37.222 NotebookApp] Uncaught exception GET /api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd (130.245.70.68)
+    HTTPServerRequest(protocol='http', host='35.196.26.71:8888', method='GET', uri='/api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd', version='HTTP/1.1', remote_ip='130.245.70.68')
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 02:44:37.223 NotebookApp] Adapting to protocol v5.1 for kernel bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[W 02:44:37.225 NotebookApp] zmq message arrived on closed channel
+[E 02:44:37.226 NotebookApp] Uncaught exception GET /api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd (130.245.70.68)
+    HTTPServerRequest(protocol='http', host='35.196.26.71:8888', method='GET', uri='/api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd', version='HTTP/1.1', remote_ip='130.245.70.68')
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 02:44:37.229 NotebookApp] Restoring connection for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:44:37.230 NotebookApp] Replaying 14 buffered messages
+[W 02:44:37.242 NotebookApp] zmq message arrived on closed channel
+[E 02:44:37.243 NotebookApp] Uncaught exception GET /api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd (130.245.70.68)
+    HTTPServerRequest(protocol='http', host='35.196.26.71:8888', method='GET', uri='/api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd', version='HTTP/1.1', remote_ip='130.245.70.68')
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[W 02:44:37.244 NotebookApp] zmq message arrived on closed channel
+[E 02:44:37.245 NotebookApp] Uncaught exception GET /api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd (130.245.70.68)
+    HTTPServerRequest(protocol='http', host='35.196.26.71:8888', method='GET', uri='/api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd', version='HTTP/1.1', remote_ip='130.245.70.68')
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 02:44:37.293 NotebookApp] Uncaught exception GET /api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd (130.245.70.68)
+    HTTPServerRequest(protocol='http', host='35.196.26.71:8888', method='GET', uri='/api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd', version='HTTP/1.1', remote_ip='130.245.70.68')
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[W 02:44:37.294 NotebookApp] zmq message arrived on closed channel
+[W 02:44:37.295 NotebookApp] zmq message arrived on closed channel
+[E 02:44:37.296 NotebookApp] Uncaught exception GET /api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd (130.245.70.68)
+    HTTPServerRequest(protocol='http', host='35.196.26.71:8888', method='GET', uri='/api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd', version='HTTP/1.1', remote_ip='130.245.70.68')
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 02:44:37.297 NotebookApp] Uncaught exception GET /api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd (130.245.70.68)
+    HTTPServerRequest(protocol='http', host='35.196.26.71:8888', method='GET', uri='/api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd', version='HTTP/1.1', remote_ip='130.245.70.68')
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[W 02:44:37.298 NotebookApp] zmq message arrived on closed channel
+[E 02:44:37.299 NotebookApp] Uncaught exception GET /api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd (130.245.70.68)
+    HTTPServerRequest(protocol='http', host='35.196.26.71:8888', method='GET', uri='/api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd', version='HTTP/1.1', remote_ip='130.245.70.68')
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 02:44:37.300 NotebookApp] Uncaught exception GET /api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd (130.245.70.68)
+    HTTPServerRequest(protocol='http', host='35.196.26.71:8888', method='GET', uri='/api/kernels/1c47120d-fe16-43f3-9457-23df2c3f2a13/channels?session_id=5e63188b55a440738b753771ea7b5ffd', version='HTTP/1.1', remote_ip='130.245.70.68')
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/web.py", line 1499, in _stack_context_handle_exception
+        raise_exc_info((type, value, traceback))
+      File "<string>", line 4, in raise_exc_info
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 315, in wrapped
+        ret = fn(*args, **kwargs)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 196, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 418, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[W 02:44:37.301 NotebookApp] zmq message arrived on closed channel
+[W 02:44:37.302 NotebookApp] zmq message arrived on closed channel
+[W 02:44:37.302 NotebookApp] zmq message arrived on closed channel
+[I 02:44:37.303 NotebookApp] Starting buffering for 1c47120d-fe16-43f3-9457-23df2c3f2a13:5e63188b55a440738b753771ea7b5ffd
+[W 02:44:37.303 NotebookApp] zmq message arrived on closed channel
+[W 02:44:37.304 NotebookApp] zmq message arrived on closed channel
+[W 02:44:37.305 NotebookApp] zmq message arrived on closed channel
+[W 02:44:37.307 NotebookApp] zmq message arrived on closed channel
+[W 02:44:37.308 NotebookApp] zmq message arrived on closed channel
+[W 02:44:37.309 NotebookApp] zmq message arrived on closed channel
+[W 02:44:37.310 NotebookApp] zmq message arrived on closed channel
+[W 02:44:37.393 NotebookApp] Replacing stale connection: bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:44:37.458 NotebookApp] Starting buffering for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:44:37.459 NotebookApp] Adapting to protocol v5.1 for kernel bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:44:37.460 NotebookApp] Restoring connection for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[W 02:44:37.513 NotebookApp] Replacing stale connection: bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:44:37.608 NotebookApp] Starting buffering for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:44:37.609 NotebookApp] Adapting to protocol v5.1 for kernel bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:44:37.610 NotebookApp] Restoring connection for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[W 02:44:37.663 NotebookApp] Replacing stale connection: bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:44:37.699 NotebookApp] Starting buffering for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:44:37.700 NotebookApp] Adapting to protocol v5.1 for kernel bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:44:37.701 NotebookApp] Restoring connection for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[W 02:44:37.756 NotebookApp] Replacing stale connection: bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:44:37.792 NotebookApp] Starting buffering for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:44:37.793 NotebookApp] Adapting to protocol v5.1 for kernel bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:44:37.794 NotebookApp] Restoring connection for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[W 02:44:37.852 NotebookApp] Replacing stale connection: bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:44:37.886 NotebookApp] Starting buffering for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:44:37.887 NotebookApp] Adapting to protocol v5.1 for kernel bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:44:37.888 NotebookApp] Restoring connection for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:44:42.278 NotebookApp] Starting buffering for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:44:42.988 NotebookApp] Kernel restarted: bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:44:44.163 NotebookApp] Adapting to protocol v5.1 for kernel bf111ebf-5a80-40f9-a3a4-ef3967d9af90
+[I 02:44:44.164 NotebookApp] Restoring connection for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 02:44:44.164 NotebookApp] Replaying 6 buffered messages
+[I 02:45:22.418 NotebookApp] Saving file at /Page_Length.ipynb
+[I 02:46:21.597 NotebookApp] Saving file at /Spider.ipynb
+[I 02:46:26.141 NotebookApp] Saving file at /Spider.ipynb
+[I 02:46:29.679 NotebookApp] Saving file at /Spider.ipynb
+[I 02:46:32.819 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:46:33.326 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:46:37.655 NotebookApp] Kernel restarted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:46:37.657 NotebookApp] zmq message arrived on closed channel
+[W 02:46:37.659 NotebookApp] zmq message arrived on closed channel
+[W 02:46:37.660 NotebookApp] zmq message arrived on closed channel
+[W 02:46:38.585 NotebookApp] zmq message arrived on closed channel
+[W 02:46:38.587 NotebookApp] zmq message arrived on closed channel
+[W 02:46:38.588 NotebookApp] zmq message arrived on closed channel
+[I 02:46:38.643 NotebookApp] Adapting to protocol v5.1 for kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:46:38.644 NotebookApp] Restoring connection for 1c47120d-fe16-43f3-9457-23df2c3f2a13:5e63188b55a440738b753771ea7b5ffd
+[I 02:46:38.644 NotebookApp] Replaying 16 buffered messages
+[W 02:46:38.676 NotebookApp] zmq message arrived on closed channel
+[W 02:46:38.677 NotebookApp] zmq message arrived on closed channel
+[W 02:46:38.715 NotebookApp] zmq message arrived on closed channel
+[W 02:46:38.717 NotebookApp] zmq message arrived on closed channel
+[W 02:46:38.718 NotebookApp] zmq message arrived on closed channel
+[W 02:46:38.720 NotebookApp] zmq message arrived on closed channel
+[W 02:46:38.722 NotebookApp] zmq message arrived on closed channel
+[W 02:46:38.723 NotebookApp] zmq message arrived on closed channel
+[W 02:46:38.725 NotebookApp] zmq message arrived on closed channel
+[W 02:46:38.727 NotebookApp] zmq message arrived on closed channel
+[W 02:46:38.728 NotebookApp] zmq message arrived on closed channel
+[W 02:46:38.730 NotebookApp] zmq message arrived on closed channel
+[W 02:46:38.732 NotebookApp] zmq message arrived on closed channel
+[W 02:46:38.776 NotebookApp] zmq message arrived on closed channel
+[W 02:46:40.185 NotebookApp] zmq message arrived on closed channel
+[W 02:46:40.186 NotebookApp] zmq message arrived on closed channel
+[I 02:46:43.978 NotebookApp] Starting buffering for 1c47120d-fe16-43f3-9457-23df2c3f2a13:5e63188b55a440738b753771ea7b5ffd
+[I 02:46:46.892 NotebookApp] Kernel restarted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:46:46.895 NotebookApp] zmq message arrived on closed channel
+[W 02:46:46.897 NotebookApp] zmq message arrived on closed channel
+[W 02:46:46.898 NotebookApp] zmq message arrived on closed channel
+[W 02:46:46.899 NotebookApp] zmq message arrived on closed channel
+[I 02:46:48.809 NotebookApp] Kernel restarted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:46:48.813 NotebookApp] zmq message arrived on closed channel
+[W 02:46:48.815 NotebookApp] zmq message arrived on closed channel
+[W 02:46:48.817 NotebookApp] zmq message arrived on closed channel
+[W 02:46:48.818 NotebookApp] zmq message arrived on closed channel
+[W 02:46:48.820 NotebookApp] zmq message arrived on closed channel
+[W 02:46:48.821 NotebookApp] zmq message arrived on closed channel
+[I 02:46:48.910 NotebookApp] Adapting to protocol v5.1 for kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:46:48.911 NotebookApp] Restoring connection for 1c47120d-fe16-43f3-9457-23df2c3f2a13:5e63188b55a440738b753771ea7b5ffd
+[I 02:46:48.911 NotebookApp] Replaying 11 buffered messages
+[W 02:46:49.784 NotebookApp] zmq message arrived on closed channel
+[W 02:46:49.786 NotebookApp] zmq message arrived on closed channel
+[W 02:46:49.788 NotebookApp] zmq message arrived on closed channel
+[W 02:46:49.791 NotebookApp] zmq message arrived on closed channel
+[W 02:46:49.792 NotebookApp] zmq message arrived on closed channel
+[W 02:46:49.794 NotebookApp] zmq message arrived on closed channel
+[W 02:46:49.795 NotebookApp] zmq message arrived on closed channel
+[W 02:46:49.911 NotebookApp] zmq message arrived on closed channel
+[W 02:46:49.912 NotebookApp] zmq message arrived on closed channel
+[I 02:46:49.934 NotebookApp] Starting buffering for 1c47120d-fe16-43f3-9457-23df2c3f2a13:5e63188b55a440738b753771ea7b5ffd
+[I 02:46:49.963 NotebookApp] Adapting to protocol v5.1 for kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:46:49.964 NotebookApp] Restoring connection for 1c47120d-fe16-43f3-9457-23df2c3f2a13:5e63188b55a440738b753771ea7b5ffd
+[W 02:46:49.995 NotebookApp] zmq message arrived on closed channel
+[W 02:46:49.997 NotebookApp] zmq message arrived on closed channel
+[I 02:46:50.620 NotebookApp] Starting buffering for 1c47120d-fe16-43f3-9457-23df2c3f2a13:5e63188b55a440738b753771ea7b5ffd
+[I 02:46:51.328 NotebookApp] Kernel restarted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:46:51.331 NotebookApp] zmq message arrived on closed channel
+[W 02:46:51.334 NotebookApp] zmq message arrived on closed channel
+[W 02:46:51.335 NotebookApp] zmq message arrived on closed channel
+[W 02:46:52.529 NotebookApp] zmq message arrived on closed channel
+[W 02:46:52.530 NotebookApp] zmq message arrived on closed channel
+[W 02:46:52.531 NotebookApp] zmq message arrived on closed channel
+[I 02:46:54.325 NotebookApp] Adapting to protocol v5.1 for kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:46:54.326 NotebookApp] Discarding 6 buffered messages for 1c47120d-fe16-43f3-9457-23df2c3f2a13:5e63188b55a440738b753771ea7b5ffd
+[W 02:46:54.596 NotebookApp] zmq message arrived on closed channel
+[W 02:46:54.598 NotebookApp] zmq message arrived on closed channel
+[W 02:46:54.800 NotebookApp] zmq message arrived on closed channel
+[W 02:46:54.802 NotebookApp] zmq message arrived on closed channel
+[W 02:46:55.810 NotebookApp] zmq message arrived on closed channel
+[W 02:46:55.811 NotebookApp] zmq message arrived on closed channel
+[W 02:46:56.242 NotebookApp] zmq message arrived on closed channel
+[W 02:47:01.748 NotebookApp] zmq message arrived on closed channel
+[W 02:47:01.750 NotebookApp] zmq message arrived on closed channel
+[W 02:47:01.830 NotebookApp] zmq message arrived on closed channel
+[I 02:47:33.162 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:47:33.197 NotebookApp] zmq message arrived on closed channel
+[W 02:47:33.198 NotebookApp] zmq message arrived on closed channel
+[I 02:47:33.715 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:47:33.746 NotebookApp] zmq message arrived on closed channel
+[W 02:47:33.747 NotebookApp] zmq message arrived on closed channel
+[I 02:47:33.882 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:47:33.911 NotebookApp] zmq message arrived on closed channel
+[W 02:47:33.912 NotebookApp] zmq message arrived on closed channel
+[I 02:47:34.048 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:47:34.081 NotebookApp] zmq message arrived on closed channel
+[W 02:47:34.082 NotebookApp] zmq message arrived on closed channel
+[I 02:47:34.208 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:47:34.239 NotebookApp] zmq message arrived on closed channel
+[W 02:47:34.241 NotebookApp] zmq message arrived on closed channel
+[I 02:47:34.380 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:47:34.409 NotebookApp] zmq message arrived on closed channel
+[W 02:47:34.409 NotebookApp] zmq message arrived on closed channel
+[I 02:47:34.558 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:47:34.589 NotebookApp] zmq message arrived on closed channel
+[W 02:47:34.591 NotebookApp] zmq message arrived on closed channel
+[I 02:47:34.730 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:47:34.760 NotebookApp] zmq message arrived on closed channel
+[W 02:47:34.761 NotebookApp] zmq message arrived on closed channel
+[I 02:47:34.915 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:47:34.947 NotebookApp] zmq message arrived on closed channel
+[W 02:47:34.949 NotebookApp] zmq message arrived on closed channel
+[I 02:47:35.116 NotebookApp] Saving file at /Page_Length.ipynb
+[I 02:47:35.802 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:47:35.832 NotebookApp] zmq message arrived on closed channel
+[W 02:47:35.835 NotebookApp] zmq message arrived on closed channel
+[I 02:47:44.550 NotebookApp] Starting buffering for 3a960d47-43b2-49ad-95fb-c37bd535cb86:aff308d4589846ebbc7e97bc5b1a3929
+[I 02:47:49.640 NotebookApp] Kernel restarted: 3a960d47-43b2-49ad-95fb-c37bd535cb86
+[I 02:47:50.352 NotebookApp] Adapting to protocol v5.1 for kernel 3a960d47-43b2-49ad-95fb-c37bd535cb86
+[I 02:47:50.353 NotebookApp] Restoring connection for 3a960d47-43b2-49ad-95fb-c37bd535cb86:aff308d4589846ebbc7e97bc5b1a3929
+[I 02:47:50.353 NotebookApp] Replaying 3 buffered messages
+[I 02:47:52.838 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:47:58.217 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:48:03.234 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:48:04.948 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:48:10.331 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:48:15.561 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:48:24.438 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:48:25.243 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:48:28.006 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:48:30.224 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:48:30.877 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:48:31.517 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:48:32.150 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:48:32.850 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:48:34.682 NotebookApp] Kernel interrupted: 3a960d47-43b2-49ad-95fb-c37bd535cb86
+[I 02:48:35.100 NotebookApp] Kernel interrupted: 3a960d47-43b2-49ad-95fb-c37bd535cb86
+[I 02:48:35.280 NotebookApp] Kernel interrupted: 3a960d47-43b2-49ad-95fb-c37bd535cb86
+[I 02:48:35.457 NotebookApp] Kernel interrupted: 3a960d47-43b2-49ad-95fb-c37bd535cb86
+[I 02:48:35.636 NotebookApp] Kernel interrupted: 3a960d47-43b2-49ad-95fb-c37bd535cb86
+[I 02:48:37.031 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:48:55.162 NotebookApp] Saving file at /Spider.ipynb
+[I 02:49:00.779 NotebookApp] Starting buffering for 3a960d47-43b2-49ad-95fb-c37bd535cb86:aff308d4589846ebbc7e97bc5b1a3929
+[I 02:49:05.805 NotebookApp] Kernel restarted: 3a960d47-43b2-49ad-95fb-c37bd535cb86
+[I 02:49:06.545 NotebookApp] Adapting to protocol v5.1 for kernel 3a960d47-43b2-49ad-95fb-c37bd535cb86
+[I 02:49:06.546 NotebookApp] Restoring connection for 3a960d47-43b2-49ad-95fb-c37bd535cb86:aff308d4589846ebbc7e97bc5b1a3929
+[I 02:49:17.082 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:49:27.256 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 02:50:24.250 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 02:50:28.588 NotebookApp] Starting buffering for 1c47120d-fe16-43f3-9457-23df2c3f2a13:3281283f566040f69ecedb8c5f743ede
+[I 02:50:32.927 NotebookApp] Adapting to protocol v5.1 for kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:50:33.026 NotebookApp] zmq message arrived on closed channel
+[W 02:50:33.028 NotebookApp] zmq message arrived on closed channel
+[W 02:50:33.432 NotebookApp] zmq message arrived on closed channel
+[W 02:50:33.433 NotebookApp] zmq message arrived on closed channel
+[I 02:50:35.834 NotebookApp] Saving file at /Page_Length.ipynb
+[W 02:50:42.287 NotebookApp] zmq message arrived on closed channel
+[W 02:50:42.293 NotebookApp] zmq message arrived on closed channel
+[W 02:50:42.503 NotebookApp] zmq message arrived on closed channel
+[W 02:50:53.811 NotebookApp] zmq message arrived on closed channel
+[W 02:50:53.813 NotebookApp] zmq message arrived on closed channel
+[W 02:50:53.915 NotebookApp] zmq message arrived on closed channel
+[W 02:50:59.053 NotebookApp] zmq message arrived on closed channel
+[W 02:50:59.055 NotebookApp] zmq message arrived on closed channel
+[W 02:50:59.449 NotebookApp] zmq message arrived on closed channel
+[I 02:51:17.100 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[W 02:52:12.726 NotebookApp] zmq message arrived on closed channel
+[I 02:52:32.964 NotebookApp] Saving file at /Spider.ipynb
+[I 02:52:36.780 NotebookApp] Starting buffering for 0c0039a4-fe6b-4cd1-88da-b7496070b0ed:1c615a01c4ca49379e5119f5e6494110
+[I 02:52:36.780 NotebookApp] Starting buffering for a43e089d-d98e-4f23-8d8d-cec9500dd961:36bde4339a64446690b72c41d12bc70a
+[W 02:52:36.786 NotebookApp] zmq message arrived on closed channel
+[W 02:52:36.787 NotebookApp] zmq message arrived on closed channel
+[W 02:52:36.789 NotebookApp] zmq message arrived on closed channel
+[W 02:52:36.791 NotebookApp] zmq message arrived on closed channel
+[I 02:52:38.897 NotebookApp] Starting buffering for 65b5a498-aa2c-4381-9953-f4517008ceb4:a9f67964dd23400889818b84c4ab8adf
+[I 02:52:43.984 NotebookApp] Saving file at /Spider.ipynb
+[W 02:52:50.512 NotebookApp] zmq message arrived on closed channel
+[W 02:52:50.514 NotebookApp] zmq message arrived on closed channel
+[W 02:52:50.517 NotebookApp] zmq message arrived on closed channel
+[W 02:52:50.518 NotebookApp] zmq message arrived on closed channel
+[W 02:52:53.842 NotebookApp] zmq message arrived on closed channel
+[W 02:52:53.843 NotebookApp] zmq message arrived on closed channel
+[W 02:52:54.043 NotebookApp] zmq message arrived on closed channel
+[I 02:52:59.635 NotebookApp] Saving file at /Spider.ipynb
+[I 02:53:05.760 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:12.421 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:12.583 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:12.765 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:53:12.861 NotebookApp] zmq message arrived on closed channel
+[I 02:53:12.953 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:13.140 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:13.327 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:13.531 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:13.725 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:13.919 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:14.123 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:53:14.310 NotebookApp] zmq message arrived on closed channel
+[I 02:53:14.328 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:14.523 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:14.709 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:14.888 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:17.014 NotebookApp] Starting buffering for 1c47120d-fe16-43f3-9457-23df2c3f2a13:3d2e66ab62c546bbbbad377ee548dafa
+ERROR:tornado.general:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/mwclient/listing.py", line 50, in __next__
+    item = six.next(self._iter)
+StopIteration
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/urllib3/connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+TypeError: getresponse() got an unexpected keyword argument 'buffering'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/interactiveshell.py", line 2910, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "<ipython-input-8-d6becac2ac18>", line 4, in <module>
+    for p in back:
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/mwclient/listing.py", line 170, in __next__
+    info = super(GeneratorList, self).__next__()
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/mwclient/listing.py", line 54, in __next__
+    self.load_chunk()
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/mwclient/listing.py", line 181, in load_chunk
+    return super(GeneratorList, self).load_chunk()
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/mwclient/listing.py", line 91, in load_chunk
+    *[(text_type(k), v) for k, v in six.iteritems(self.args)]
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/mwclient/client.py", line 228, in get
+    return self.api(action, 'GET', *args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/mwclient/client.py", line 279, in api
+    info = self.raw_api(action, http_method, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/mwclient/client.py", line 415, in raw_api
+    http_method=http_method)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/mwclient/client.py", line 374, in raw_call
+    headers=headers, **self.requests)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/requests/sessions.py", line 521, in get
+    return self.request('GET', url, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/requests/adapters.py", line 440, in send
+    timeout=timeout
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/urllib3/connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/urllib3/connectionpool.py", line 383, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.5/http/client.py", line 1197, in getresponse
+    response.begin()
+  File "/usr/lib/python3.5/http/client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.5/http/client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.5/ssl.py", line 929, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 791, in read
+    return self._sslobj.read(len, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 575, in read
+    v = self._sslobj.read(len, buffer)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/interactiveshell.py", line 1828, in showtraceback
+    stb = value._render_traceback_()
+AttributeError: 'KeyboardInterrupt' object has no attribute '_render_traceback_'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 1090, in get_records
+    return _fixed_getinnerframes(etb, number_of_lines_of_context, tb_offset)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 311, in wrapped
+    return f(*args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 345, in _fixed_getinnerframes
+    records = fix_frame_records_filenames(inspect.getinnerframes(etb, context))
+  File "/usr/lib/python3.5/inspect.py", line 1453, in getinnerframes
+    frameinfo = (tb.tb_frame,) + getframeinfo(tb, context)
+  File "/usr/lib/python3.5/inspect.py", line 1414, in getframeinfo
+    lines, lnum = findsource(frame)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 177, in findsource
+    lines = linecache.getlines(file, globals_dict)
+  File "/home/xuanli2/penv/lib/python3.5/linecache.py", line 47, in getlines
+    return updatecache(filename, module_globals)
+  File "/home/xuanli2/penv/lib/python3.5/linecache.py", line 137, in updatecache
+    lines = fp.readlines()
+  File "/home/xuanli2/penv/lib/python3.5/codecs.py", line 318, in decode
+    def decode(self, input, final=False):
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/interactiveshell.py", line 1831, in showtraceback
+    value, tb, tb_offset=tb_offset)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 1371, in structured_traceback
+    self, etype, value, tb, tb_offset, number_of_lines_of_context)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 1279, in structured_traceback
+    self, etype, value, tb, tb_offset, number_of_lines_of_context
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 1128, in structured_traceback
+    tb_offset)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 1066, in format_exception_as_a_whole
+    records = self.get_records(etb, number_of_lines_of_context, tb_offset)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 1105, in get_records
+    traceback.print_exc(file=self.ostream)
+  File "/usr/lib/python3.5/traceback.py", line 159, in print_exc
+    print_exception(*sys.exc_info(), limit=limit, file=file, chain=chain)
+  File "/usr/lib/python3.5/traceback.py", line 100, in print_exception
+    type(value), value, tb, limit=limit).format(chain=chain):
+  File "/usr/lib/python3.5/traceback.py", line 474, in __init__
+    capture_locals=capture_locals)
+  File "/usr/lib/python3.5/traceback.py", line 358, in extract
+    f.line
+  File "/usr/lib/python3.5/traceback.py", line 282, in line
+    self._line = linecache.getline(self.filename, self.lineno).strip()
+  File "/home/xuanli2/penv/lib/python3.5/linecache.py", line 16, in getline
+    lines = getlines(filename, module_globals)
+  File "/home/xuanli2/penv/lib/python3.5/linecache.py", line 47, in getlines
+    return updatecache(filename, module_globals)
+  File "/home/xuanli2/penv/lib/python3.5/linecache.py", line 136, in updatecache
+    with tokenize.open(fullname) as fp:
+  File "/home/xuanli2/penv/lib/python3.5/tokenize.py", line 456, in open
+    encoding, lines = detect_encoding(buffer.readline)
+  File "/home/xuanli2/penv/lib/python3.5/tokenize.py", line 425, in detect_encoding
+    first = read_or_stop()
+  File "/home/xuanli2/penv/lib/python3.5/tokenize.py", line 383, in read_or_stop
+    return readline()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/interactiveshell.py", line 2850, in run_ast_nodes
+    if self.run_code(code, result):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/interactiveshell.py", line 2927, in run_code
+    self.showtraceback(running_compiled_code=True)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/interactiveshell.py", line 1843, in showtraceback
+    print('\n' + self.get_exception_only(), file=sys.stderr)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/interactiveshell.py", line 1788, in get_exception_only
+    msg = traceback.format_exception_only(etype, value)
+  File "/usr/lib/python3.5/traceback.py", line 136, in format_exception_only
+    return list(TracebackException(etype, value, None).format_exception_only())
+  File "/usr/lib/python3.5/traceback.py", line 487, in __init__
+    self._load_lines()
+  File "/usr/lib/python3.5/traceback.py", line 500, in _load_lines
+    self.__context__._load_lines()
+  File "/usr/lib/python3.5/traceback.py", line 498, in _load_lines
+    frame.line
+  File "/usr/lib/python3.5/traceback.py", line 282, in line
+    self._line = linecache.getline(self.filename, self.lineno).strip()
+  File "/home/xuanli2/penv/lib/python3.5/linecache.py", line 16, in getline
+    lines = getlines(filename, module_globals)
+  File "/home/xuanli2/penv/lib/python3.5/linecache.py", line 47, in getlines
+    return updatecache(filename, module_globals)
+  File "/home/xuanli2/penv/lib/python3.5/linecache.py", line 137, in updatecache
+    lines = fp.readlines()
+  File "/home/xuanli2/penv/lib/python3.5/codecs.py", line 318, in decode
+    def decode(self, input, final=False):
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/interactiveshell.py", line 1828, in showtraceback
+    stb = value._render_traceback_()
+AttributeError: 'KeyboardInterrupt' object has no attribute '_render_traceback_'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 1090, in get_records
+    return _fixed_getinnerframes(etb, number_of_lines_of_context, tb_offset)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 311, in wrapped
+    return f(*args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 345, in _fixed_getinnerframes
+    records = fix_frame_records_filenames(inspect.getinnerframes(etb, context))
+  File "/usr/lib/python3.5/inspect.py", line 1453, in getinnerframes
+    frameinfo = (tb.tb_frame,) + getframeinfo(tb, context)
+  File "/usr/lib/python3.5/inspect.py", line 1414, in getframeinfo
+    lines, lnum = findsource(frame)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 177, in findsource
+    lines = linecache.getlines(file, globals_dict)
+  File "/home/xuanli2/penv/lib/python3.5/linecache.py", line 47, in getlines
+    return updatecache(filename, module_globals)
+  File "/home/xuanli2/penv/lib/python3.5/linecache.py", line 136, in updatecache
+    with tokenize.open(fullname) as fp:
+  File "/home/xuanli2/penv/lib/python3.5/tokenize.py", line 456, in open
+    encoding, lines = detect_encoding(buffer.readline)
+  File "/home/xuanli2/penv/lib/python3.5/tokenize.py", line 425, in detect_encoding
+    first = read_or_stop()
+  File "/home/xuanli2/penv/lib/python3.5/tokenize.py", line 383, in read_or_stop
+    return readline()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/interactiveshell.py", line 1831, in showtraceback
+    value, tb, tb_offset=tb_offset)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 1371, in structured_traceback
+    self, etype, value, tb, tb_offset, number_of_lines_of_context)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 1279, in structured_traceback
+    self, etype, value, tb, tb_offset, number_of_lines_of_context
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 1128, in structured_traceback
+    tb_offset)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 1066, in format_exception_as_a_whole
+    records = self.get_records(etb, number_of_lines_of_context, tb_offset)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/ultratb.py", line 1105, in get_records
+    traceback.print_exc(file=self.ostream)
+  File "/usr/lib/python3.5/traceback.py", line 159, in print_exc
+    print_exception(*sys.exc_info(), limit=limit, file=file, chain=chain)
+  File "/usr/lib/python3.5/traceback.py", line 100, in print_exception
+    type(value), value, tb, limit=limit).format(chain=chain):
+  File "/usr/lib/python3.5/traceback.py", line 474, in __init__
+    capture_locals=capture_locals)
+  File "/usr/lib/python3.5/traceback.py", line 358, in extract
+    f.line
+  File "/usr/lib/python3.5/traceback.py", line 282, in line
+    self._line = linecache.getline(self.filename, self.lineno).strip()
+  File "/home/xuanli2/penv/lib/python3.5/linecache.py", line 16, in getline
+    lines = getlines(filename, module_globals)
+  File "/home/xuanli2/penv/lib/python3.5/linecache.py", line 47, in getlines
+    return updatecache(filename, module_globals)
+  File "/home/xuanli2/penv/lib/python3.5/linecache.py", line 136, in updatecache
+    with tokenize.open(fullname) as fp:
+  File "/home/xuanli2/penv/lib/python3.5/tokenize.py", line 456, in open
+    encoding, lines = detect_encoding(buffer.readline)
+  File "/home/xuanli2/penv/lib/python3.5/tokenize.py", line 425, in detect_encoding
+    first = read_or_stop()
+  File "/home/xuanli2/penv/lib/python3.5/tokenize.py", line 383, in read_or_stop
+    return readline()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+    callback(*args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 276, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/kernelbase.py", line 283, in dispatcher
+    return self.dispatch_shell(stream, msg)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/kernelbase.py", line 233, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/kernelbase.py", line 399, in execute_request
+    user_expressions, allow_stdin)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/ipkernel.py", line 208, in do_execute
+    res = shell.run_cell(code, store_history=store_history, silent=silent)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/zmqshell.py", line 537, in run_cell
+    return super(ZMQInteractiveShell, self).run_cell(*args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/interactiveshell.py", line 2728, in run_cell
+    interactivity=interactivity, compiler=compiler, result=result)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/interactiveshell.py", line 2875, in run_ast_nodes
+    self.showtraceback()
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/interactiveshell.py", line 1843, in showtraceback
+    print('\n' + self.get_exception_only(), file=sys.stderr)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/interactiveshell.py", line 1788, in get_exception_only
+    msg = traceback.format_exception_only(etype, value)
+  File "/usr/lib/python3.5/traceback.py", line 136, in format_exception_only
+    return list(TracebackException(etype, value, None).format_exception_only())
+  File "/usr/lib/python3.5/traceback.py", line 487, in __init__
+    self._load_lines()
+  File "/usr/lib/python3.5/traceback.py", line 500, in _load_lines
+    self.__context__._load_lines()
+  File "/usr/lib/python3.5/traceback.py", line 498, in _load_lines
+    frame.line
+  File "/usr/lib/python3.5/traceback.py", line 282, in line
+    self._line = linecache.getline(self.filename, self.lineno).strip()
+  File "/home/xuanli2/penv/lib/python3.5/linecache.py", line 16, in getline
+    lines = getlines(filename, module_globals)
+  File "/home/xuanli2/penv/lib/python3.5/linecache.py", line 47, in getlines
+    return updatecache(filename, module_globals)
+  File "/home/xuanli2/penv/lib/python3.5/linecache.py", line 137, in updatecache
+    lines = fp.readlines()
+  File "/home/xuanli2/penv/lib/python3.5/codecs.py", line 318, in decode
+    def decode(self, input, final=False):
+KeyboardInterrupt
+[I 02:53:21.129 NotebookApp] Kernel restarted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:53:21.132 NotebookApp] zmq message arrived on closed channel
+[I 02:53:28.131 NotebookApp] Kernel restarted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:28.136 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:28.137 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:53:28.139 NotebookApp] zmq message arrived on closed channel
+[W 02:53:28.141 NotebookApp] zmq message arrived on closed channel
+[W 02:53:28.142 NotebookApp] zmq message arrived on closed channel
+[I 02:53:28.147 NotebookApp] Kernel restarted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:28.150 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:53:28.152 NotebookApp] zmq message arrived on closed channel
+[W 02:53:28.154 NotebookApp] zmq message arrived on closed channel
+[W 02:53:28.156 NotebookApp] zmq message arrived on closed channel
+[I 02:53:28.252 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:28.656 NotebookApp] Adapting to protocol v5.1 for kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:28.657 NotebookApp] Restoring connection for 1c47120d-fe16-43f3-9457-23df2c3f2a13:3d2e66ab62c546bbbbad377ee548dafa
+[I 02:53:28.657 NotebookApp] Replaying 7 buffered messages
+[I 02:53:28.670 NotebookApp] Starting buffering for 1c47120d-fe16-43f3-9457-23df2c3f2a13:3d2e66ab62c546bbbbad377ee548dafa
+[I 02:53:31.865 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13 restarted
+[E 02:53:31.865 NotebookApp] KernelRestarter: restart callback <bound method ZMQChannelsHandler.on_kernel_restarted of ZMQChannelsHandler(1c47120d-fe16-43f3-9457-23df2c3f2a13)> failed
+    Traceback (most recent call last):
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/jupyter_client/restarter.py", line 86, in _fire_callbacks
+        callback()
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 466, in on_kernel_restarted
+        self._send_status_message('restarting')
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/notebook/services/kernels/handlers.py", line 462, in _send_status_message
+        self.write_message(json.dumps(msg, default=date_default))
+      File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 253, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 02:53:32.547 NotebookApp] Adapting to protocol v5.1 for kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:53:35.133 NotebookApp] Saving file at /Page_Length.ipynb
+[W 02:53:40.421 NotebookApp] zmq message arrived on closed channel
+[W 02:53:40.426 NotebookApp] zmq message arrived on closed channel
+[W 02:53:40.430 NotebookApp] zmq message arrived on closed channel
+[W 02:53:40.432 NotebookApp] zmq message arrived on closed channel
+[W 02:53:40.436 NotebookApp] zmq message arrived on closed channel
+[W 02:53:40.438 NotebookApp] zmq message arrived on closed channel
+[W 02:53:40.440 NotebookApp] zmq message arrived on closed channel
+[W 02:53:40.442 NotebookApp] zmq message arrived on closed channel
+[W 02:53:40.443 NotebookApp] zmq message arrived on closed channel
+[W 02:53:40.454 NotebookApp] zmq message arrived on closed channel
+[W 02:53:40.455 NotebookApp] zmq message arrived on closed channel
+[I 02:53:40.505 NotebookApp] Starting buffering for 1c47120d-fe16-43f3-9457-23df2c3f2a13:c1c687174a2e4b448000d3d13c20c88c
+[I 02:53:43.754 NotebookApp] Adapting to protocol v5.1 for kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:53:43.862 NotebookApp] zmq message arrived on closed channel
+[W 02:53:43.864 NotebookApp] zmq message arrived on closed channel
+[W 02:53:44.350 NotebookApp] zmq message arrived on closed channel
+[W 02:53:44.352 NotebookApp] zmq message arrived on closed channel
+[I 02:53:45.731 NotebookApp] Starting buffering for 1c47120d-fe16-43f3-9457-23df2c3f2a13:a6c49a3b8f7d48178f0783b1808f1193
+[I 02:53:51.385 NotebookApp] Kernel restarted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 02:53:51.388 NotebookApp] zmq message arrived on closed channel
+[W 02:53:51.391 NotebookApp] zmq message arrived on closed channel
+[W 02:53:51.393 NotebookApp] zmq message arrived on closed channel
+[IPKernelApp] ERROR | Failed to open SQLite history /home/xuanli2/.ipython/profile_default/history.sqlite (database is locked).
+[IPKernelApp] ERROR | History file was moved to /home/xuanli2/.ipython/profile_default/history-corrupt-2018-04-28T02.53.56.871145.sqlite and a new file created.
+[IPKernelApp] ERROR | Failed to open SQLite history /home/xuanli2/.ipython/profile_default/history.sqlite (disk I/O error).
+[IPKernelApp] ERROR | History file was moved to /home/xuanli2/.ipython/profile_default/history-corrupt.sqlite and a new file created.
+[W 02:54:12.228 NotebookApp] zmq message arrived on closed channel
+[W 02:54:12.230 NotebookApp] zmq message arrived on closed channel
+[W 02:54:12.232 NotebookApp] zmq message arrived on closed channel
+[I 02:54:12.310 NotebookApp] Adapting to protocol v5.1 for kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 02:54:12.311 NotebookApp] Restoring connection for 1c47120d-fe16-43f3-9457-23df2c3f2a13:a6c49a3b8f7d48178f0783b1808f1193
+[I 02:54:12.312 NotebookApp] Replaying 6 buffered messages
+[W 02:54:12.353 NotebookApp] zmq message arrived on closed channel
+[W 02:54:12.355 NotebookApp] zmq message arrived on closed channel
+[W 02:54:13.133 NotebookApp] zmq message arrived on closed channel
+[W 02:54:13.235 NotebookApp] zmq message arrived on closed channel
+[W 02:54:13.238 NotebookApp] zmq message arrived on closed channel
+[W 02:54:16.422 NotebookApp] zmq message arrived on closed channel
+[W 02:54:16.423 NotebookApp] zmq message arrived on closed channel
+[W 02:54:16.426 NotebookApp] zmq message arrived on closed channel
+[W 02:54:19.820 NotebookApp] zmq message arrived on closed channel
+[W 02:54:19.821 NotebookApp] zmq message arrived on closed channel
+[W 02:54:19.823 NotebookApp] zmq message arrived on closed channel
+[W 02:54:19.826 NotebookApp] zmq message arrived on closed channel
+[W 02:54:19.828 NotebookApp] zmq message arrived on closed channel
+[W 02:54:19.878 NotebookApp] zmq message arrived on closed channel
+[W 02:54:27.508 NotebookApp] zmq message arrived on closed channel
+[W 02:54:27.508 NotebookApp] zmq message arrived on closed channel
+[W 02:54:27.616 NotebookApp] zmq message arrived on closed channel
+[W 02:54:31.115 NotebookApp] zmq message arrived on closed channel
+[W 02:54:31.117 NotebookApp] zmq message arrived on closed channel
+[W 02:54:31.509 NotebookApp] zmq message arrived on closed channel
+[W 02:55:43.275 NotebookApp] zmq message arrived on closed channel
+[I 02:55:43.673 NotebookApp] Saving file at /Spider.ipynb
+[I 02:56:14.262 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 02:56:35.977 NotebookApp] Saving file at /Page_Length.ipynb
+[W 02:56:58.358 NotebookApp] zmq message arrived on closed channel
+[W 02:56:58.360 NotebookApp] zmq message arrived on closed channel
+[W 02:56:58.362 NotebookApp] zmq message arrived on closed channel
+[W 02:56:58.363 NotebookApp] zmq message arrived on closed channel
+[I 02:57:43.725 NotebookApp] Saving file at /Spider.ipynb
+[I 02:58:18.139 NotebookApp] Saving file at /Spider.ipynb
+[I 02:59:35.875 NotebookApp] Saving file at /Page_Length.ipynb
+[I 02:59:43.677 NotebookApp] Saving file at /Spider.ipynb
+[I 03:00:03.808 NotebookApp] Saving file at /Spider.ipynb
+[I 03:00:07.951 NotebookApp] Saving file at /Spider.ipynb
+[I 03:00:14.200 NotebookApp] Saving file at /Spider.ipynb
+[I 03:00:21.589 NotebookApp] Saving file at /Spider.ipynb
+[I 03:00:27.912 NotebookApp] Saving file at /Spider.ipynb
+[I 03:00:32.988 NotebookApp] Saving file at /Spider.ipynb
+[I 03:00:37.508 NotebookApp] Saving file at /Spider.ipynb
+[I 03:00:41.670 NotebookApp] Saving file at /Spider.ipynb
+[I 03:00:49.185 NotebookApp] Saving file at /Spider.ipynb
+[I 03:00:55.568 NotebookApp] Saving file at /Spider.ipynb
+[I 03:01:41.525 NotebookApp] Starting buffering for 3a960d47-43b2-49ad-95fb-c37bd535cb86:aff308d4589846ebbc7e97bc5b1a3929
+[I 03:02:02.299 NotebookApp] Saving file at /Spider.ipynb
+[I 03:02:06.595 NotebookApp] Saving file at /Spider.ipynb
+[I 03:02:12.237 NotebookApp] Saving file at /Spider.ipynb
+[I 03:02:16.370 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 03:02:23.102 NotebookApp] Saving file at /Spider.ipynb
+[I 03:02:29.153 NotebookApp] Saving file at /Spider.ipynb
+[I 03:02:35.197 NotebookApp] Saving file at /Spider.ipynb
+[I 03:02:44.012 NotebookApp] Saving file at /Spider.ipynb
+[I 03:02:48.385 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:02:53.225 NotebookApp] Saving file at /Spider.ipynb
+[I 03:02:57.606 NotebookApp] Saving file at /Spider.ipynb
+[I 03:03:02.540 NotebookApp] Saving file at /Spider.ipynb
+[I 03:03:08.241 NotebookApp] Saving file at /Spider.ipynb
+[I 03:03:12.581 NotebookApp] Saving file at /Spider.ipynb
+[I 03:03:19.189 NotebookApp] Saving file at /Spider.ipynb
+[I 03:03:25.049 NotebookApp] Saving file at /Spider.ipynb
+[I 03:03:30.998 NotebookApp] Saving file at /Spider.ipynb
+[I 03:03:37.855 NotebookApp] Saving file at /Spider.ipynb
+[I 03:03:42.105 NotebookApp] Saving file at /Spider.ipynb
+[I 03:03:50.501 NotebookApp] Saving file at /Spider.ipynb
+[W 03:03:57.337 NotebookApp] zmq message arrived on closed channel
+[W 03:03:57.339 NotebookApp] zmq message arrived on closed channel
+[W 03:03:57.341 NotebookApp] zmq message arrived on closed channel
+[W 03:03:57.343 NotebookApp] zmq message arrived on closed channel
+[W 03:03:57.345 NotebookApp] zmq message arrived on closed channel
+[W 03:03:57.346 NotebookApp] zmq message arrived on closed channel
+[I 03:03:57.410 NotebookApp] Saving file at /Spider.ipynb
+[W 03:04:02.851 NotebookApp] zmq message arrived on closed channel
+[I 03:04:02.855 NotebookApp] Saving file at /Spider.ipynb
+[I 03:04:10.524 NotebookApp] Saving file at /Spider.ipynb
+[I 03:04:17.113 NotebookApp] Adapting to protocol v5.1 for kernel 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 03:05:14.422 NotebookApp] Kernel shutdown: 3a960d47-43b2-49ad-95fb-c37bd535cb86
+[I 03:05:30.195 NotebookApp] Kernel started: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:05:30.905 NotebookApp] Adapting to protocol v5.1 for kernel 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:05:37.480 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:05:39.714 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:05:40.553 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:05:41.144 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:05:42.392 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:05:43.053 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:05:43.551 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:05:51.208 NotebookApp] Starting buffering for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:eb2f63f843724db1b538faefd4bfa792
+[I 03:06:03.347 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:07:37.186 NotebookApp] Adapting to protocol v5.1 for kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 03:07:37.307 NotebookApp] zmq message arrived on closed channel
+[W 03:07:37.309 NotebookApp] zmq message arrived on closed channel
+[W 03:07:38.112 NotebookApp] zmq message arrived on closed channel
+[W 03:07:38.114 NotebookApp] zmq message arrived on closed channel
+[I 03:07:54.276 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 03:09:13.305 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:09:37.104 NotebookApp] Saving file at /Spider.ipynb
+[I 03:10:23.532 NotebookApp] Adapting to protocol v5.1 for kernel 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:10:34.813 NotebookApp] New terminal with automatic name: 2
+[I 03:10:41.490 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:10:42.305 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:10:47.385 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:11:10.319 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:11:10.480 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:11:10.652 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:11:10.831 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:11:11.001 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:11:11.173 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:11:11.345 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:11:14.004 NotebookApp] Starting buffering for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:ae9b4093db334f838e73fea36c49292f
+[I 03:11:19.050 NotebookApp] Kernel restarted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:11:23.283 NotebookApp] Kernel interrupted: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 03:11:25.436 NotebookApp] Adapting to protocol v5.1 for kernel 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:11:25.437 NotebookApp] Restoring connection for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:ae9b4093db334f838e73fea36c49292f
+[I 03:11:25.437 NotebookApp] Replaying 3 buffered messages
+[I 03:11:29.519 NotebookApp] Starting buffering for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:ae9b4093db334f838e73fea36c49292f
+[I 03:11:30.517 NotebookApp] Adapting to protocol v5.1 for kernel 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:12:23.339 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:13:30.456 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:13:44.277 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 03:15:33.322 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:15:54.998 NotebookApp] Creating new directory in /data
+[I 03:16:48.140 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:16:49.412 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:16:51.678 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:17:13.820 NotebookApp] Kernel interrupted: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 03:17:14.547 NotebookApp] Kernel interrupted: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 03:17:34.944 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:17:44.453 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:17:50.945 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:17:56.226 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:17:58.651 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:18:00.114 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:18:00.789 NotebookApp] Kernel interrupted: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 03:18:01.767 NotebookApp] Kernel interrupted: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 03:18:02.038 NotebookApp] Kernel interrupted: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 03:18:06.545 NotebookApp] Starting buffering for 64b27647-6d23-48e5-98d0-753c71bb05b0:69d41118f46048de87fe1762e2f3d5a2
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 808, in wrapper
+    yield fut
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1099, in run
+    value = future.result()
+  File "/usr/lib/python3.5/asyncio/futures.py", line 274, in result
+    raise self._exception
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/gen.py", line 1107, in run
+    yielded = self.gen.throw(*exc_info)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/websocket.py", line 810, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 03:18:08.397 NotebookApp] Kernel restarted: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 03:18:09.307 NotebookApp] Kernel restarted: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 03:18:09.420 NotebookApp] Adapting to protocol v5.1 for kernel 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 03:18:09.420 NotebookApp] Restoring connection for 64b27647-6d23-48e5-98d0-753c71bb05b0:69d41118f46048de87fe1762e2f3d5a2
+[I 03:18:09.420 NotebookApp] Replaying 10 buffered messages
+[I 03:18:10.072 NotebookApp] Starting buffering for 64b27647-6d23-48e5-98d0-753c71bb05b0:69d41118f46048de87fe1762e2f3d5a2
+[I 03:18:10.102 NotebookApp] Adapting to protocol v5.1 for kernel 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 03:18:10.102 NotebookApp] Restoring connection for 64b27647-6d23-48e5-98d0-753c71bb05b0:69d41118f46048de87fe1762e2f3d5a2
+[I 03:18:11.225 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:18:19.223 NotebookApp] Kernel interrupted: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 03:18:43.328 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:19:06.334 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:19:12.897 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:19:17.407 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:19:22.174 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:19:25.404 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:19:34.305 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 03:19:34.520 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:19:39.042 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:19:51.206 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:19:59.254 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:20:01.578 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:20:03.709 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:20:17.810 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:20:18.412 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:20:19.445 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:20:26.398 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:20:31.721 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:20:46.831 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:20:50.598 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:20:52.798 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:20:56.290 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:20:57.077 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:05.768 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:10.669 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:11.996 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:16.135 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:16.810 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:20.061 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:20.743 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:21.144 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:21.588 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:22.026 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:22.533 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:23.132 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:23.605 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:24.760 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:25.826 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:26.474 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:21:53.367 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:23:50.567 NotebookApp] Saving file at /Spider.ipynb
+[I 03:24:59.844 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:25:03.345 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:25:06.034 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:25:07.260 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:25:10.146 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:25:12.609 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:25:17.668 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:25:18.513 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:25:24.264 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 03:25:28.043 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:25:29.356 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:25:30.308 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:25:31.057 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:25:32.256 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:26:34.062 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:26:40.755 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:26:51.484 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:26:52.359 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:26:54.616 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:26:55.312 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:26:58.323 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:27:01.267 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:27:20.919 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:27:21.587 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:27:25.295 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:27:27.434 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:27:32.352 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:27:36.371 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:27:38.421 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:27:45.149 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:27:46.676 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:27:48.552 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:27:50.642 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:27:54.413 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:28:04.812 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:28:06.112 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:28:07.812 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:28:10.680 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:28:13.356 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:28:13.656 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:28:15.847 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:28:26.999 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:28:34.066 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:28:37.665 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:28:42.408 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:28:49.358 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:28:52.329 NotebookApp] Kernel interrupted: 64b27647-6d23-48e5-98d0-753c71bb05b0
+[I 03:28:52.394 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:04.557 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:05.404 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:12.083 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:27.771 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:28.444 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:29.427 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:33.121 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:35.981 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:37.938 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:41.601 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:42.613 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:44.092 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:50.924 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:51.234 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:52.152 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:55.573 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:29:57.539 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:30:06.790 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:30:07.696 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:30:45.193 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:30:46.055 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:30:50.643 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:31:12.882 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:31:14.303 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 03:31:15.510 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:31:16.524 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:31:20.222 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:31:23.363 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:31:27.861 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:31:28.445 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:32:10.633 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:32:10.895 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:32:12.993 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:32:18.358 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:32:19.192 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:32:23.023 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:32:31.791 NotebookApp] Adapting to protocol v5.1 for kernel a43e089d-d98e-4f23-8d8d-cec9500dd961
+[I 03:32:42.148 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:32:57.791 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:33:04.195 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:33:16.697 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:33:18.698 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:33:26.417 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:33:26.881 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:33:28.784 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:33:32.296 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:33:39.893 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:33:40.469 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:33:46.615 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:33:51.064 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:34:14.486 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:34:15.647 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:34:26.360 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:34:27.737 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:34:28.710 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:34:31.017 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:34:31.940 NotebookApp] Saving file at /DataClean.ipynb
+[I 03:34:32.049 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:34:33.402 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:34:35.088 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:34:35.891 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:34:37.218 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:34:39.467 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:34:39.842 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:34:41.816 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:34:43.481 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:35:08.487 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:35:11.386 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:35:13.812 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:35:14.596 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:35:15.415 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:35:17.430 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:35:30.490 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:35:31.018 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:35:42.386 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:35:50.319 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:35:51.466 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:35:57.141 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:37:04.301 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 03:37:30.483 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:37:43.375 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:38:07.547 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:38:07.712 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:38:07.877 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:38:08.041 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:38:08.200 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:38:08.363 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:38:13.418 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:38:13.872 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:38:14.206 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:38:14.473 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:38:55.651 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:38:56.095 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:39:32.860 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:40:53.955 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:42:54.378 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 03:44:03.389 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:45:59.822 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:46:00.904 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:47:13.430 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:47:33.303 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:48:44.349 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 03:48:58.073 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:48:58.308 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:48:58.490 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:48:58.684 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:50:16.721 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:50:18.699 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:50:23.071 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:50:24.059 NotebookApp] Saving file at /Page_Length.ipynb
+[I 03:50:32.348 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:50:32.739 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:50:32.891 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:50:33.062 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:50:33.224 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:50:33.389 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:50:33.552 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:50:33.729 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:50:33.901 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:50:36.669 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 03:51:32.884 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:53:32.890 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 03:54:34.308 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[W 03:59:30.519 NotebookApp] WebSocket ping timeout after 119872 ms.
+[I 03:59:35.522 NotebookApp] Starting buffering for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:485a8bb3a0734718977af6afa198d5f2
+[W 03:59:37.187 NotebookApp] WebSocket ping timeout after 119885 ms.
+[I 03:59:42.189 NotebookApp] Starting buffering for 1c47120d-fe16-43f3-9457-23df2c3f2a13:86d9c25cdf0648b587f6b7006f6de3d2
+[I 04:00:24.310 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 04:06:14.319 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 04:12:04.330 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 04:13:00.663 NotebookApp] Saving file at /HongyiDuanmu.ipynb
+[I 04:13:00.820 NotebookApp] Starting buffering for bf111ebf-5a80-40f9-a3a4-ef3967d9af90:52abe3bd9c6d49949816b390d5257f81
+[I 04:18:06.357 NotebookApp] Adapting to protocol v5.1 for kernel 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:18:06.358 NotebookApp] Discarding 3 buffered messages for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:485a8bb3a0734718977af6afa198d5f2
+[I 04:20:06.139 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:06.318 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:06.467 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:06.615 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:06.771 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:06.949 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:07.141 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:07.315 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:07.494 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:07.695 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:07.885 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:08.085 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:08.291 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:08.499 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:08.710 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:08.920 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:09.115 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:09.318 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:09.522 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:09.879 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:10.065 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:10.267 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:20:27.385 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:20:35.980 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:20:37.654 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:20:38.377 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:20:40.046 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:20:40.782 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:20:42.142 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:20:43.739 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:20:44.591 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:22:14.550 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:23:08.421 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:23:09.789 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:23:19.039 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:23:26.718 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:23:26.739 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:23:31.103 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:23:37.556 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:23:39.493 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:23:40.848 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:23:45.859 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:23:52.168 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:24:02.028 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:24:09.384 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:25:01.994 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:25:02.163 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:25:02.370 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:25:02.506 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:25:02.699 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:25:02.842 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:25:03.024 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 04:25:20.932 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:25:25.766 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:25:26.768 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:25:47.614 NotebookApp] Adapting to protocol v5.1 for kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 04:25:47.615 NotebookApp] Restoring connection for 1c47120d-fe16-43f3-9457-23df2c3f2a13:86d9c25cdf0648b587f6b7006f6de3d2
+[W 04:25:47.659 NotebookApp] zmq message arrived on closed channel
+[W 04:25:47.661 NotebookApp] zmq message arrived on closed channel
+[I 04:25:58.461 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:26:02.951 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:26:03.769 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:27:59.730 NotebookApp] Kernel started: 121ae22e-c303-4b86-afad-79a6087d72d1
+[I 04:28:04.453 NotebookApp] Adapting to protocol v5.1 for kernel 121ae22e-c303-4b86-afad-79a6087d72d1
+[I 04:28:06.634 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 04:28:59.396 NotebookApp] Saving file at /playground.ipynb
+[W 04:29:01.087 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 04:29:11.135 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[I 04:30:00.243 NotebookApp] Saving file at /playground.ipynb
+[I 04:30:20.097 NotebookApp] Saving file at /playground.ipynb
+[W 04:30:39.220 NotebookApp] zmq message arrived on closed channel
+[W 04:30:39.222 NotebookApp] zmq message arrived on closed channel
+[W 04:30:39.420 NotebookApp] zmq message arrived on closed channel
+[W 04:30:47.848 NotebookApp] zmq message arrived on closed channel
+[W 04:30:47.863 NotebookApp] zmq message arrived on closed channel
+[W 04:30:47.951 NotebookApp] zmq message arrived on closed channel
+[W 04:30:50.613 NotebookApp] zmq message arrived on closed channel
+[W 04:30:50.616 NotebookApp] zmq message arrived on closed channel
+[I 04:30:58.556 NotebookApp] Saving file at /Spider.ipynb
+[I 04:31:02.566 NotebookApp] Saving file at /Spider.ipynb
+[I 04:31:11.357 NotebookApp] Saving file at /Spider.ipynb
+[I 04:31:14.608 NotebookApp] Saving file at /Spider.ipynb
+[I 04:31:17.645 NotebookApp] Saving file at /Spider.ipynb
+[I 04:31:45.905 NotebookApp] Saving file at /Spider.ipynb
+[I 04:31:48.791 NotebookApp] Saving file at /Spider.ipynb
+[I 04:31:49.362 NotebookApp] Saving file at /Spider.ipynb
+[I 04:31:52.244 NotebookApp] Saving file at /Spider.ipynb
+[I 04:31:56.291 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:00.227 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:04.982 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:05.942 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:09.621 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:13.419 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:27.237 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:27.819 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:28.607 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:29.436 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:33.867 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:38.784 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:42.191 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:45.961 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:48.498 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:49.843 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:52.819 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:58.565 NotebookApp] Saving file at /Spider.ipynb
+[I 04:32:59.824 NotebookApp] Saving file at /Spider.ipynb
+[I 04:33:03.058 NotebookApp] Saving file at /Spider.ipynb
+[I 04:33:04.996 NotebookApp] Saving file at /Spider.ipynb
+[I 04:33:08.859 NotebookApp] Saving file at /Spider.ipynb
+[I 04:33:10.873 NotebookApp] Saving file at /Spider.ipynb
+[I 04:33:12.821 NotebookApp] Saving file at /Spider.ipynb
+[I 04:33:13.802 NotebookApp] Saving file at /Spider.ipynb
+[I 04:33:14.946 NotebookApp] Saving file at /Spider.ipynb
+[I 04:33:16.920 NotebookApp] Saving file at /Spider.ipynb
+[I 04:33:22.553 NotebookApp] Saving file at /Spider.ipynb
+[I 04:33:23.491 NotebookApp] Saving file at /Spider.ipynb
+[I 04:34:46.831 NotebookApp] Saving file at /Spider.ipynb
+[I 04:35:09.603 NotebookApp] Saving file at /Spider.ipynb
+[I 04:35:35.044 NotebookApp] Saving file at /Spider.ipynb
+[I 04:35:36.584 NotebookApp] Saving file at /Spider.ipynb
+[I 04:35:40.714 NotebookApp] Saving file at /Spider.ipynb
+[I 04:35:41.666 NotebookApp] Saving file at /Spider.ipynb
+[I 04:35:44.215 NotebookApp] Saving file at /Spider.ipynb
+[I 04:35:52.533 NotebookApp] Saving file at /Spider.ipynb
+[I 04:35:53.253 NotebookApp] Saving file at /Spider.ipynb
+[I 04:36:04.731 NotebookApp] Saving file at /Spider.ipynb
+[I 04:36:08.947 NotebookApp] Saving file at /Spider.ipynb
+[I 04:36:14.782 NotebookApp] Saving file at /playground.ipynb
+[I 04:36:24.967 NotebookApp] Starting buffering for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:bd140fc692e941f48b5cce8dd82bc001
+[I 04:37:27.529 NotebookApp] Saving file at /Spider.ipynb
+[I 04:37:41.795 NotebookApp] Saving file at /Spider.ipynb
+[I 04:37:46.977 NotebookApp] Saving file at /Spider.ipynb
+[I 04:37:59.769 NotebookApp] Saving file at /playground.ipynb
+[I 04:38:12.421 NotebookApp] Saving file at /playground.ipynb
+[I 04:38:52.320 NotebookApp] Saving file at /Spider.ipynb
+[I 04:38:54.545 NotebookApp] Saving file at /Spider.ipynb
+[I 04:38:55.132 NotebookApp] Saving file at /Spider.ipynb
+[I 04:39:16.718 NotebookApp] Saving file at /playground.ipynb
+[I 04:39:48.110 NotebookApp] Saving file at /Spider.ipynb
+[I 04:39:50.648 NotebookApp] Saving file at /Spider.ipynb
+[I 04:39:52.904 NotebookApp] Saving file at /Spider.ipynb
+[I 04:39:56.584 NotebookApp] Saving file at /Spider.ipynb
+[I 04:39:57.807 NotebookApp] Saving file at /Spider.ipynb
+[I 04:40:00.634 NotebookApp] Saving file at /playground.ipynb
+[I 04:40:05.109 NotebookApp] Saving file at /Spider.ipynb
+[I 04:40:06.053 NotebookApp] Saving file at /Spider.ipynb
+[I 04:40:59.053 NotebookApp] Saving file at /Spider.ipynb
+[I 04:40:59.981 NotebookApp] Saving file at /Spider.ipynb
+[I 04:41:04.115 NotebookApp] Saving file at /Spider.ipynb
+[I 04:41:07.597 NotebookApp] Saving file at /Spider.ipynb
+[I 04:41:10.678 NotebookApp] Saving file at /Spider.ipynb
+[I 04:41:13.875 NotebookApp] Saving file at /Spider.ipynb
+[I 04:41:14.474 NotebookApp] Saving file at /Spider.ipynb
+[I 04:41:16.121 NotebookApp] Saving file at /Spider.ipynb
+[I 04:41:48.786 NotebookApp] Saving file at /Spider.ipynb
+[I 04:42:00.645 NotebookApp] Saving file at /playground.ipynb
+[I 04:42:00.768 NotebookApp] Saving file at /Spider.ipynb
+[I 04:42:30.707 NotebookApp] Saving file at /Spider.ipynb
+[I 04:43:04.757 NotebookApp] Saving file at /Spider.ipynb
+[I 04:43:59.786 NotebookApp] Saving file at /playground.ipynb
+[I 04:44:26.992 NotebookApp] Saving file at /Spider.ipynb
+[I 04:44:29.416 NotebookApp] Saving file at /Spider.ipynb
+[I 04:44:33.887 NotebookApp] Saving file at /Spider.ipynb
+[I 04:44:36.197 NotebookApp] Saving file at /Spider.ipynb
+[I 04:44:37.622 NotebookApp] Saving file at /Spider.ipynb
+[I 04:44:40.074 NotebookApp] Saving file at /Spider.ipynb
+[I 04:44:43.260 NotebookApp] Saving file at /Spider.ipynb
+[I 04:44:45.796 NotebookApp] Saving file at /Spider.ipynb
+[I 04:44:49.395 NotebookApp] Saving file at /Spider.ipynb
+[I 04:44:51.166 NotebookApp] Saving file at /Spider.ipynb
+[I 04:44:53.519 NotebookApp] Saving file at /Spider.ipynb
+[I 04:44:58.396 NotebookApp] Saving file at /Spider.ipynb
+[I 04:44:59.555 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:00.859 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:03.477 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:04.132 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:04.337 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:10.130 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:13.684 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:15.023 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:15.772 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:16.853 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:21.818 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:23.581 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:24.932 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:26.884 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:37.568 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:39.000 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:40.575 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:41.587 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:46.973 NotebookApp] Saving file at /Spider.ipynb
+[I 04:45:57.017 NotebookApp] Saving file at /Spider.ipynb
+[I 04:46:00.697 NotebookApp] Saving file at /Spider.ipynb
+[I 04:46:07.986 NotebookApp] Saving file at /Spider.ipynb
+[I 04:47:35.436 NotebookApp] Saving file at /Spider.ipynb
+[I 04:47:39.149 NotebookApp] Saving file at /Spider.ipynb
+[I 04:47:41.878 NotebookApp] Saving file at /Spider.ipynb
+[I 04:47:59.539 NotebookApp] Saving file at /Spider.ipynb
+[I 04:48:03.907 NotebookApp] Saving file at /Spider.ipynb
+[I 04:48:06.584 NotebookApp] Saving file at /Spider.ipynb
+[I 04:48:08.843 NotebookApp] Saving file at /Spider.ipynb
+[I 04:48:11.533 NotebookApp] Saving file at /Spider.ipynb
+[I 04:48:14.914 NotebookApp] Saving file at /Spider.ipynb
+[I 04:48:24.869 NotebookApp] Saving file at /Spider.ipynb
+[I 04:48:27.173 NotebookApp] Saving file at /Spider.ipynb
+[I 04:48:40.012 NotebookApp] Saving file at /Spider.ipynb
+[I 04:48:45.104 NotebookApp] Saving file at /Spider.ipynb
+[I 04:48:54.880 NotebookApp] Saving file at /Spider.ipynb
+[I 04:49:00.223 NotebookApp] Saving file at /Spider.ipynb
+[I 04:50:16.079 NotebookApp] Saving file at /Spider.ipynb
+[I 04:50:17.225 NotebookApp] Saving file at /Spider.ipynb
+[I 04:50:19.717 NotebookApp] Saving file at /Spider.ipynb
+[I 04:50:40.452 NotebookApp] Saving file at /Spider.ipynb
+[I 04:50:44.968 NotebookApp] Saving file at /Spider.ipynb
+[I 04:50:50.349 NotebookApp] Saving file at /Spider.ipynb
+[I 04:50:51.486 NotebookApp] Saving file at /Spider.ipynb
+[I 04:50:53.604 NotebookApp] Saving file at /Spider.ipynb
+[I 04:50:57.252 NotebookApp] Saving file at /Spider.ipynb
+[I 04:51:00.033 NotebookApp] Saving file at /Spider.ipynb
+[I 04:51:00.710 NotebookApp] Saving file at /Spider.ipynb
+[I 04:51:02.833 NotebookApp] Saving file at /Spider.ipynb
+[I 04:51:04.189 NotebookApp] Saving file at /Spider.ipynb
+[I 04:51:04.333 NotebookApp] Saving file at /Spider.ipynb
+[I 04:51:06.191 NotebookApp] Saving file at /Spider.ipynb
+[I 04:51:10.670 NotebookApp] Saving file at /Spider.ipynb
+[I 04:51:16.228 NotebookApp] Saving file at /Spider.ipynb
+[I 04:51:18.378 NotebookApp] Saving file at /Spider.ipynb
+[I 04:51:24.030 NotebookApp] Saving file at /Spider.ipynb
+[I 04:51:24.870 NotebookApp] Saving file at /Spider.ipynb
+[I 05:29:48.629 NotebookApp] Adapting to protocol v5.1 for kernel 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:31:13.873 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:31:21.204 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:31:22.723 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:31:24.269 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:31:27.517 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:32:40.235 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:32:42.350 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:32:47.757 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:33:20.608 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:33:22.292 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:33:24.038 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:33:26.409 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:33:26.614 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:33:29.926 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:33:48.203 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:33:49.260 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:33:50.656 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:33:53.874 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:33:54.919 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:33:55.785 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:33:57.351 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:34:27.500 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:34:28.599 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:34:42.187 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:34:49.766 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:35:17.115 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:35:24.805 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:35:32.074 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:35:35.533 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:35:37.790 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:35:39.699 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:35:41.450 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:35:48.237 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:35:53.904 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:35:55.376 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:36:03.796 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:36:13.250 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:36:15.962 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:36:18.274 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:38:15.460 NotebookApp] Starting buffering for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:da3b21f959c44576800edb571eb7f71a
+[I 05:38:16.370 NotebookApp] Adapting to protocol v5.1 for kernel 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:38:21.303 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:38:32.083 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:38:36.369 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:38:37.783 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:08.349 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:09.220 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:10.904 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:22.834 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:23.388 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:23.995 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:25.823 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:26.524 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:27.160 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:33.445 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:37.384 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:40.179 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:44.261 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:45.418 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:48.248 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:49.016 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:52.322 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:39:55.035 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:40:00.742 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:40:01.688 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:40:02.258 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:40:07.084 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:40:09.073 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:40:09.856 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:40:13.414 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:40:15.428 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:40:17.535 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:40:29.293 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:40:58.558 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:40:58.721 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:40:58.880 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:40:59.050 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:40:59.237 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:40:59.403 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:40:59.564 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:40:59.734 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:40:59.912 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:41:00.069 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:41:54.790 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:41:57.786 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:42:03.537 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:42:04.422 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:42:06.039 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:42:16.280 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:43:00.037 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:43:00.217 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:43:00.415 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:43:00.658 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:43:00.785 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+ERROR:tornado.general:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+    callback(*args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 276, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/kernelbase.py", line 283, in dispatcher
+    return self.dispatch_shell(stream, msg)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/kernelbase.py", line 233, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/kernelbase.py", line 421, in execute_request
+    self._abort_queues()
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/kernelbase.py", line 636, in _abort_queues
+    self._abort_queue(stream)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/kernelbase.py", line 661, in _abort_queue
+    poller.poll(50)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/sugar/poll.py", line 99, in poll
+    return zmq_poll(self.sockets, timeout=timeout)
+  File "zmq/backend/cython/_poll.pyx", line 123, in zmq.backend.cython._poll.zmq_poll
+  File "zmq/backend/cython/checkrc.pxd", line 12, in zmq.backend.cython.checkrc._check_rc
+KeyboardInterrupt
+[I 05:43:00.990 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:43:01.185 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:43:01.388 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:43:01.592 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:43:04.050 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc restarted
+[I 05:43:06.849 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/pkg_resources/__init__.py", line 2698, in get_entry_map
+    ep_map = self._ep_map
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/pkg_resources/__init__.py", line 2669, in __getattr__
+    raise AttributeError(attr)
+AttributeError: _ep_map
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/runpy.py", line 184, in _run_module_as_main
+    "__main__", mod_spec)
+  File "/usr/lib/python3.5/runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel_launcher.py", line 15, in <module>
+    from ipykernel import kernelapp as app
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/__init__.py", line 2, in <module>
+    from .connect import *
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/connect.py", line 13, in <module>
+    from IPython.core.profiledir import ProfileDir
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/__init__.py", line 55, in <module>
+    from .terminal.embed import embed
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/terminal/embed.py", line 16, in <module>
+    from IPython.terminal.interactiveshell import TerminalInteractiveShell
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/terminal/interactiveshell.py", line 91, in <module>
+    class TerminalInteractiveShell(InteractiveShell):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/terminal/interactiveshell.py", line 134, in TerminalInteractiveShell
+    highlighting: \n %s""" % ', '.join(get_all_styles())
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/pygments/styles/__init__.py", line 79, in get_all_styles
+    for name, _ in find_plugin_styles():
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/pygments/plugin.py", line 62, in find_plugin_styles
+    for entrypoint in iter_entry_points(STYLE_ENTRY_POINT):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/pkg_resources/__init__.py", line 645, in iter_entry_points
+    entries = dist.get_entry_map(group)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/pkg_resources/__init__.py", line 2701, in get_entry_map
+    self._get_metadata('entry_points.txt'), self
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/pkg_resources/__init__.py", line 2408, in parse_map
+    for group, lines in data:
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/pkg_resources/__init__.py", line 3036, in split_sections
+    for line in yield_lines(s):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/pkg_resources/__init__.py", line 2268, in yield_lines
+    for ss in strs:
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/pkg_resources/__init__.py", line 2627, in _get_metadata
+    for line in self.get_metadata_lines(name):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/pkg_resources/__init__.py", line 1408, in get_metadata_lines
+    return yield_lines(self.get_metadata(name))
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/pkg_resources/__init__.py", line 1404, in get_metadata
+    value = self._get(self._fn(self.egg_info, name))
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/pkg_resources/__init__.py", line 1517, in _get
+    return stream.read()
+KeyboardInterrupt
+[I 05:43:07.031 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:43:07.057 NotebookApp] KernelRestarter: restarting kernel (2/5), keep random ports
+WARNING:root:kernel 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc restarted
+[I 05:43:09.425 NotebookApp] Starting buffering for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:235d45bd05464c06aa9667c409a84033
+[I 05:43:09.738 NotebookApp] Kernel restarted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:43:10.435 NotebookApp] Adapting to protocol v5.1 for kernel 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:43:10.435 NotebookApp] Restoring connection for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:235d45bd05464c06aa9667c409a84033
+[I 05:43:10.436 NotebookApp] Replaying 3 buffered messages
+[I 05:43:28.248 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:43:28.804 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:43:49.194 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:43:52.099 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:43:52.792 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:43:54.907 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:44:03.536 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:44:04.123 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:44:04.838 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:44:07.855 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:45:09.291 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:45:09.460 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:45:09.647 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:45:09.842 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:45:10.073 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:45:10.261 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:45:10.453 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:45:10.656 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:45:10.874 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:45:11.076 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:45:11.293 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:45:23.221 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:45:25.078 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:45:39.983 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:45:41.854 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:45:49.181 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:45:49.360 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:45:49.545 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:45:49.729 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:45:49.935 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:45:50.115 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:46:00.886 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:46:01.364 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:46:16.329 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:47:55.606 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:47:55.807 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:47:56.002 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:47:56.198 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:47:56.385 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:47:56.596 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+ERROR:tornado.general:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+    callback(*args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 276, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/kernelbase.py", line 283, in dispatcher
+    return self.dispatch_shell(stream, msg)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/kernelbase.py", line 233, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/kernelbase.py", line 421, in execute_request
+    self._abort_queues()
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/kernelbase.py", line 636, in _abort_queues
+    self._abort_queue(stream)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/kernelbase.py", line 661, in _abort_queue
+    poller.poll(50)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/sugar/poll.py", line 99, in poll
+    return zmq_poll(self.sockets, timeout=timeout)
+  File "zmq/backend/cython/_poll.pyx", line 123, in zmq.backend.cython._poll.zmq_poll
+  File "zmq/backend/cython/checkrc.pxd", line 12, in zmq.backend.cython.checkrc._check_rc
+KeyboardInterrupt
+[I 05:48:00.668 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:48:02.177 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:48:03.398 NotebookApp] Kernel interrupted: 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:48:03.739 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc restarted
+[I 05:48:16.296 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:48:23.543 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:48:23.995 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:48:26.004 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:48:31.339 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:48:35.624 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:49:26.628 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:49:30.656 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 05:50:16.312 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[W 05:52:34.455 NotebookApp] WebSocket ping timeout after 119954 ms.
+[I 05:52:39.456 NotebookApp] Starting buffering for 121ae22e-c303-4b86-afad-79a6087d72d1:9afa96a96b2a431e85b6165ddd4fd6f0
+[W 05:52:40.437 NotebookApp] WebSocket ping timeout after 119962 ms.
+[I 05:52:45.439 NotebookApp] Starting buffering for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:235d45bd05464c06aa9667c409a84033
+[W 05:52:47.616 NotebookApp] WebSocket ping timeout after 119959 ms.
+[I 05:52:52.618 NotebookApp] Starting buffering for 1c47120d-fe16-43f3-9457-23df2c3f2a13:86d9c25cdf0648b587f6b7006f6de3d2
+[I 05:53:42.244 NotebookApp] Adapting to protocol v5.1 for kernel 121ae22e-c303-4b86-afad-79a6087d72d1
+[I 05:53:42.245 NotebookApp] Restoring connection for 121ae22e-c303-4b86-afad-79a6087d72d1:9afa96a96b2a431e85b6165ddd4fd6f0
+[I 05:53:49.203 NotebookApp] Adapting to protocol v5.1 for kernel 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 05:53:49.204 NotebookApp] Restoring connection for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:235d45bd05464c06aa9667c409a84033
+[W 05:55:12.246 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 05:55:17.247 NotebookApp] Starting buffering for 121ae22e-c303-4b86-afad-79a6087d72d1:9afa96a96b2a431e85b6165ddd4fd6f0
+[W 05:55:19.205 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 05:55:24.206 NotebookApp] Starting buffering for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:235d45bd05464c06aa9667c409a84033
+[I 06:01:51.851 NotebookApp] Adapting to protocol v5.1 for kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 06:01:51.852 NotebookApp] Restoring connection for 1c47120d-fe16-43f3-9457-23df2c3f2a13:86d9c25cdf0648b587f6b7006f6de3d2
+[I 06:02:24.682 NotebookApp] Adapting to protocol v5.1 for kernel 121ae22e-c303-4b86-afad-79a6087d72d1
+[I 06:02:24.683 NotebookApp] Restoring connection for 121ae22e-c303-4b86-afad-79a6087d72d1:9afa96a96b2a431e85b6165ddd4fd6f0
+[W 06:03:54.684 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 06:03:59.687 NotebookApp] Starting buffering for 121ae22e-c303-4b86-afad-79a6087d72d1:9afa96a96b2a431e85b6165ddd4fd6f0
+[W 06:04:21.853 NotebookApp] WebSocket ping timeout after 119966 ms.
+[I 06:04:26.855 NotebookApp] Starting buffering for 1c47120d-fe16-43f3-9457-23df2c3f2a13:86d9c25cdf0648b587f6b7006f6de3d2
+[W 06:07:07.550 NotebookApp] zmq message arrived on closed channel
+[W 06:07:07.554 NotebookApp] zmq message arrived on closed channel
+[W 06:07:07.555 NotebookApp] zmq message arrived on closed channel
+[W 06:07:07.556 NotebookApp] zmq message arrived on closed channel
+[W 06:07:07.557 NotebookApp] zmq message arrived on closed channel
+[W 06:07:07.606 NotebookApp] zmq message arrived on closed channel
+[I 06:20:37.325 NotebookApp] Adapting to protocol v5.1 for kernel 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 06:20:37.367 NotebookApp] Restoring connection for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:235d45bd05464c06aa9667c409a84033
+[I 06:20:37.367 NotebookApp] Replaying 1 buffered messages
+[I 06:20:39.557 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 06:21:19.047 NotebookApp] Adapting to protocol v5.1 for kernel 121ae22e-c303-4b86-afad-79a6087d72d1
+[I 06:21:19.048 NotebookApp] Restoring connection for 121ae22e-c303-4b86-afad-79a6087d72d1:9afa96a96b2a431e85b6165ddd4fd6f0
+[W 06:23:37.369 NotebookApp] WebSocket ping timeout after 119670 ms.
+[I 06:23:42.370 NotebookApp] Starting buffering for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:235d45bd05464c06aa9667c409a84033
+[W 06:23:49.049 NotebookApp] WebSocket ping timeout after 119966 ms.
+[I 06:23:54.051 NotebookApp] Starting buffering for 121ae22e-c303-4b86-afad-79a6087d72d1:9afa96a96b2a431e85b6165ddd4fd6f0
+[I 06:59:27.213 NotebookApp] 302 GET / (124.172.144.158) 0.49ms
+[I 06:59:27.433 NotebookApp] 302 GET /tree? (124.172.144.158) 0.97ms
+[W 06:59:28.094 NotebookApp] 404 GET /index.action (124.172.144.158) 19.86ms referer=None
+[I 07:23:06.722 NotebookApp] Adapting to protocol v5.1 for kernel 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 07:23:06.737 NotebookApp] Restoring connection for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:235d45bd05464c06aa9667c409a84033
+[I 07:23:06.737 NotebookApp] Replaying 2 buffered messages
+[I 07:23:13.897 NotebookApp] Adapting to protocol v5.1 for kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 07:23:13.898 NotebookApp] Restoring connection for 1c47120d-fe16-43f3-9457-23df2c3f2a13:86d9c25cdf0648b587f6b7006f6de3d2
+[I 07:23:13.898 NotebookApp] Replaying 9 buffered messages
+[W 07:23:14.180 NotebookApp] zmq message arrived on closed channel
+[W 07:23:14.182 NotebookApp] zmq message arrived on closed channel
+[I 07:23:17.710 NotebookApp] Adapting to protocol v5.1 for kernel 121ae22e-c303-4b86-afad-79a6087d72d1
+[I 07:23:17.711 NotebookApp] Restoring connection for 121ae22e-c303-4b86-afad-79a6087d72d1:9afa96a96b2a431e85b6165ddd4fd6f0
+[I 07:23:22.821 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[W 07:24:36.738 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 07:24:41.740 NotebookApp] Starting buffering for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:235d45bd05464c06aa9667c409a84033
+[W 07:24:43.899 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 07:24:47.712 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 07:24:48.901 NotebookApp] Starting buffering for 1c47120d-fe16-43f3-9457-23df2c3f2a13:86d9c25cdf0648b587f6b7006f6de3d2
+[I 07:24:52.714 NotebookApp] Starting buffering for 121ae22e-c303-4b86-afad-79a6087d72d1:9afa96a96b2a431e85b6165ddd4fd6f0
+[I 09:04:28.889 NotebookApp] Adapting to protocol v5.1 for kernel 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 09:04:28.915 NotebookApp] Restoring connection for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:235d45bd05464c06aa9667c409a84033
+[I 09:04:28.915 NotebookApp] Replaying 8 buffered messages
+[W 09:05:58.916 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 09:06:03.918 NotebookApp] Starting buffering for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:235d45bd05464c06aa9667c409a84033
+[I 11:46:12.928 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 12:16:46.831 NotebookApp] Saving file at /Spider.ipynb
+[I 13:33:47.850 NotebookApp] Adapting to protocol v5.1 for kernel 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:33:47.944 NotebookApp] zmq message arrived on closed channel
+[W 13:33:47.946 NotebookApp] zmq message arrived on closed channel
+[W 13:33:50.152 NotebookApp] zmq message arrived on closed channel
+[W 13:33:50.154 NotebookApp] zmq message arrived on closed channel
+[I 13:33:50.923 NotebookApp] Adapting to protocol v5.1 for kernel 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc
+[I 13:33:50.924 NotebookApp] Discarding 22 buffered messages for 8a6399c0-ebf6-4944-9f04-1b9dbde39ffc:235d45bd05464c06aa9667c409a84033
+[W 13:34:35.442 NotebookApp] zmq message arrived on closed channel
+[W 13:34:35.447 NotebookApp] zmq message arrived on closed channel
+[W 13:34:35.730 NotebookApp] zmq message arrived on closed channel
+[W 13:34:41.591 NotebookApp] zmq message arrived on closed channel
+[W 13:34:41.625 NotebookApp] zmq message arrived on closed channel
+[W 13:34:44.533 NotebookApp] zmq message arrived on closed channel
+[W 13:34:50.461 NotebookApp] zmq message arrived on closed channel
+[W 13:34:50.462 NotebookApp] zmq message arrived on closed channel
+[W 13:34:50.465 NotebookApp] zmq message arrived on closed channel
+[W 13:35:05.000 NotebookApp] zmq message arrived on closed channel
+[W 13:35:05.002 NotebookApp] zmq message arrived on closed channel
+[W 13:35:05.004 NotebookApp] zmq message arrived on closed channel
+[W 13:35:05.006 NotebookApp] zmq message arrived on closed channel
+[I 13:35:49.168 NotebookApp] Saving file at /Spider.ipynb
+[W 13:35:54.709 NotebookApp] zmq message arrived on closed channel
+[W 13:35:54.710 NotebookApp] zmq message arrived on closed channel
+[W 13:35:54.920 NotebookApp] zmq message arrived on closed channel
+[W 13:35:54.957 NotebookApp] zmq message arrived on closed channel
+[W 13:36:05.601 NotebookApp] zmq message arrived on closed channel
+[W 13:36:05.603 NotebookApp] zmq message arrived on closed channel
+[W 13:36:19.682 NotebookApp] zmq message arrived on closed channel
+[W 13:37:23.231 NotebookApp] zmq message arrived on closed channel
+[W 13:37:23.236 NotebookApp] zmq message arrived on closed channel
+[W 13:37:23.302 NotebookApp] zmq message arrived on closed channel
+[I 13:37:40.445 NotebookApp] Saving file at /Spider.ipynb
+[I 13:37:47.548 NotebookApp] Saving file at /Spider.ipynb
+[I 13:37:49.748 NotebookApp] Saving file at /Spider.ipynb
+[I 13:37:52.622 NotebookApp] Saving file at /Spider.ipynb
+[I 13:38:00.614 NotebookApp] Saving file at /Spider.ipynb
+[I 13:38:09.236 NotebookApp] Saving file at /Spider.ipynb
+[I 13:38:12.005 NotebookApp] Saving file at /Spider.ipynb
+[I 13:38:14.116 NotebookApp] Saving file at /Spider.ipynb
+[I 13:38:16.862 NotebookApp] Saving file at /Spider.ipynb
+[W 13:38:20.320 NotebookApp] zmq message arrived on closed channel
+[W 13:38:20.322 NotebookApp] zmq message arrived on closed channel
+[I 13:39:49.192 NotebookApp] Saving file at /Spider.ipynb
+[I 13:40:11.171 NotebookApp] Adapting to protocol v5.1 for kernel 121ae22e-c303-4b86-afad-79a6087d72d1
+[I 13:40:11.171 NotebookApp] Restoring connection for 121ae22e-c303-4b86-afad-79a6087d72d1:9afa96a96b2a431e85b6165ddd4fd6f0
+[I 13:41:35.946 NotebookApp] Saving file at /playground.ipynb
+[I 13:43:07.171 NotebookApp] Saving file at /playground.ipynb
+[I 13:44:27.538 NotebookApp] Saving file at /playground.ipynb
+[I 13:44:34.498 NotebookApp] Saving file at /playground.ipynb
+[I 13:44:36.042 NotebookApp] Saving file at /playground.ipynb
+[I 13:45:06.327 NotebookApp] Saving file at /playground.ipynb
+[I 13:45:08.950 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:45:08.990 NotebookApp] zmq message arrived on closed channel
+[W 13:45:09.011 NotebookApp] zmq message arrived on closed channel
+[W 13:45:09.012 NotebookApp] zmq message arrived on closed channel
+[W 13:45:09.062 NotebookApp] zmq message arrived on closed channel
+[I 13:45:09.137 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:45:09.188 NotebookApp] zmq message arrived on closed channel
+[W 13:45:09.189 NotebookApp] zmq message arrived on closed channel
+[I 13:45:09.278 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:45:09.341 NotebookApp] zmq message arrived on closed channel
+[W 13:45:09.342 NotebookApp] zmq message arrived on closed channel
+[I 13:45:09.455 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:45:09.493 NotebookApp] zmq message arrived on closed channel
+[W 13:45:09.495 NotebookApp] zmq message arrived on closed channel
+[I 13:45:09.637 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:45:09.673 NotebookApp] zmq message arrived on closed channel
+[W 13:45:09.674 NotebookApp] zmq message arrived on closed channel
+[I 13:45:09.806 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:45:09.842 NotebookApp] zmq message arrived on closed channel
+[W 13:45:09.842 NotebookApp] zmq message arrived on closed channel
+[I 13:45:09.976 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:45:10.011 NotebookApp] zmq message arrived on closed channel
+[W 13:45:10.013 NotebookApp] zmq message arrived on closed channel
+[I 13:45:10.164 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:45:10.199 NotebookApp] zmq message arrived on closed channel
+[W 13:45:10.200 NotebookApp] zmq message arrived on closed channel
+[I 13:45:10.341 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:45:10.378 NotebookApp] zmq message arrived on closed channel
+[W 13:45:10.379 NotebookApp] zmq message arrived on closed channel
+[I 13:45:10.490 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:45:10.532 NotebookApp] zmq message arrived on closed channel
+[W 13:45:10.533 NotebookApp] zmq message arrived on closed channel
+[I 13:45:50.185 NotebookApp] Saving file at /Spider.ipynb
+[I 13:47:50.741 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 13:49:50.761 NotebookApp] Saving file at /Dataset Traverser.ipynb
+[I 13:52:31.328 NotebookApp] Saving file at /Spider.ipynb
+[I 13:52:45.798 NotebookApp] Saving file at /Spider.ipynb
+[I 13:52:46.304 NotebookApp] Saving file at /Spider.ipynb
+[I 13:52:55.037 NotebookApp] Saving file at /Spider.ipynb
+[I 13:52:55.512 NotebookApp] Saving file at /Spider.ipynb
+[I 13:52:55.969 NotebookApp] Saving file at /Spider.ipynb
+[I 13:52:59.783 NotebookApp] Saving file at /Spider.ipynb
+[I 13:53:03.753 NotebookApp] Saving file at /Spider.ipynb
+[I 13:53:15.065 NotebookApp] Saving file at /Spider.ipynb
+[I 13:53:20.527 NotebookApp] Saving file at /Spider.ipynb
+[I 13:53:27.008 NotebookApp] Saving file at /Spider.ipynb
+[W 13:53:38.225 NotebookApp] zmq message arrived on closed channel
+[W 13:53:38.230 NotebookApp] zmq message arrived on closed channel
+[W 13:53:38.288 NotebookApp] zmq message arrived on closed channel
+[I 13:53:49.610 NotebookApp] Saving file at /Spider.ipynb
+[W 13:53:53.625 NotebookApp] zmq message arrived on closed channel
+[W 13:53:53.626 NotebookApp] zmq message arrived on closed channel
+[W 13:53:54.064 NotebookApp] zmq message arrived on closed channel
+[I 13:54:18.223 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 13:54:18.360 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[I 13:54:18.527 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:54:18.547 NotebookApp] zmq message arrived on closed channel
+[W 13:54:18.549 NotebookApp] zmq message arrived on closed channel
+[W 13:54:18.551 NotebookApp] zmq message arrived on closed channel
+[W 13:54:18.553 NotebookApp] zmq message arrived on closed channel
+[W 13:54:18.554 NotebookApp] zmq message arrived on closed channel
+[W 13:54:18.568 NotebookApp] zmq message arrived on closed channel
+[W 13:54:18.569 NotebookApp] zmq message arrived on closed channel
+[W 13:54:18.622 NotebookApp] zmq message arrived on closed channel
+[I 13:54:18.705 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:54:18.745 NotebookApp] zmq message arrived on closed channel
+[W 13:54:18.747 NotebookApp] zmq message arrived on closed channel
+[I 13:54:18.881 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:54:18.916 NotebookApp] zmq message arrived on closed channel
+[W 13:54:18.916 NotebookApp] zmq message arrived on closed channel
+[I 13:54:19.066 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:54:19.098 NotebookApp] zmq message arrived on closed channel
+[W 13:54:19.100 NotebookApp] zmq message arrived on closed channel
+[I 13:54:19.240 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:54:19.277 NotebookApp] zmq message arrived on closed channel
+[W 13:54:19.278 NotebookApp] zmq message arrived on closed channel
+[I 13:54:19.419 NotebookApp] Kernel interrupted: 1c47120d-fe16-43f3-9457-23df2c3f2a13
+[W 13:54:19.454 NotebookApp] zmq message arrived on closed channel
+[W 13:54:19.455 NotebookApp] zmq message arrived on closed channel
+[I 13:54:32.100 NotebookApp] Saving file at /Spider.ipynb
+[I 13:54:32.848 NotebookApp] Saving file at /Spider.ipynb
+[W 13:54:37.113 NotebookApp] zmq message arrived on closed channel
+[W 13:54:37.114 NotebookApp] zmq message arrived on closed channel
+[W 13:54:37.381 NotebookApp] zmq message arrived on closed channel
+[I 13:55:49.220 NotebookApp] Saving file at /Spider.ipynb
