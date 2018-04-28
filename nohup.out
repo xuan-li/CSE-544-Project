@@ -2361,3 +2361,7 @@ MemoryError
 [I 23:33:03.243 NotebookApp] 302 POST /login?next=%2Fnotebooks%2Fplayground.ipynb (130.245.70.29) 1.25ms
 [I 23:33:06.425 NotebookApp] Kernel started: 81d1ec27-e22a-4dcb-9305-360f229523c7
 [I 23:33:07.413 NotebookApp] Adapting to protocol v5.1 for kernel 81d1ec27-e22a-4dcb-9305-360f229523c7
+[W 23:33:31.082 NotebookApp] 404 GET /api/kernels/9221ed58-3822-487e-8cc4-71eb09c4af75/channels?session_id=1be4cf3b383d4ed283714b42cbdcbbc8 (130.245.70.29): Kernel does not exist: 9221ed58-3822-487e-8cc4-71eb09c4af75
+[W 23:33:31.108 NotebookApp] 404 GET /api/kernels/9221ed58-3822-487e-8cc4-71eb09c4af75/channels?session_id=1be4cf3b383d4ed283714b42cbdcbbc8 (130.245.70.29) 28.17ms referer=None
+[W 23:33:44.982 NotebookApp] Couldn't authenticate WebSocket connection
+[W 23:33:44.983 NotebookApp] 403 GET /api/kernels/8a43400c-9f2f-4e36-877b-f9deda9308fc/channels?session_id=d23965ad845a4c318793d3ad2b64705a (129.49.100.188) 2.99ms referer=None
