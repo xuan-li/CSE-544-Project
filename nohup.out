@@ -6468,3 +6468,86 @@ WARNING:root:kernel 86d7b8dd-03ad-48e6-8068-bff1e433e745 restarted
 [I 04:14:48.356 NotebookApp] Saving file at /CategoryVisit.ipynb
 [I 04:16:48.373 NotebookApp] Saving file at /CategoryVisit.ipynb
 [I 04:20:48.984 NotebookApp] Saving file at /CategoryVisit.ipynb
+[I 04:22:48.552 NotebookApp] Saving file at /CategoryVisit.ipynb
+[I 04:24:48.957 NotebookApp] Saving file at /CategoryVisit.ipynb
+[W 04:30:06.293 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 04:30:07.109 NotebookApp] WebSocket ping timeout after 119932 ms.
+[I 04:30:11.295 NotebookApp] Starting buffering for 3ebd0f1b-6745-45a1-8498-4fb3faa8ee45:ac477a72ef96484d852ac74ed134edbd
+[I 04:30:12.111 NotebookApp] Starting buffering for 86d7b8dd-03ad-48e6-8068-bff1e433e745:e6f5ebc859f048218ba379f4aef59569
+[W 04:30:14.878 NotebookApp] WebSocket ping timeout after 119976 ms.
+[W 04:30:15.985 NotebookApp] WebSocket ping timeout after 119899 ms.
+[W 04:30:18.266 NotebookApp] WebSocket ping timeout after 119927 ms.
+[W 04:30:19.566 NotebookApp] WebSocket ping timeout after 119976 ms.
+[I 04:30:19.879 NotebookApp] Starting buffering for c95dd67d-6ca3-4d14-b820-5e62008fe69a:e42cb9f388ab408896095c760e7ce6af
+[W 04:30:19.988 NotebookApp] WebSocket ping timeout after 119976 ms.
+[I 04:30:23.269 NotebookApp] Starting buffering for fa672147-df04-4231-b8f9-8b9c2b037fce:68946581e70b4ea188500a8f046fa342
+[I 04:30:24.568 NotebookApp] Starting buffering for d6f2b2c4-2964-4f09-8b58-dd072f0676fb:f396c402da62451f80e00acef4eb8d95
+[I 04:30:24.990 NotebookApp] Starting buffering for 0325f88f-a1f7-428a-bf38-605a9d6cc708:71b4895000514806be1bd9aae02230a6
+[W 04:30:28.574 NotebookApp] WebSocket ping timeout after 119892 ms.
+[W 04:30:28.638 NotebookApp] WebSocket ping timeout after 119957 ms.
+[W 04:30:29.966 NotebookApp] WebSocket ping timeout after 119975 ms.
+[I 04:30:33.639 NotebookApp] Starting buffering for 51ed5ed1-737b-432f-8b78-41244841f63c:68196bff328444fbbbc7114bbc8efb1f
+[I 04:30:34.968 NotebookApp] Starting buffering for 77b28773-4f10-409e-b85e-817a5a5c7196:cd9969265f3d41b4872d200db36c97b9
+[I 04:32:00.818 NotebookApp] Restoring connection for 3ebd0f1b-6745-45a1-8498-4fb3faa8ee45:ac477a72ef96484d852ac74ed134edbd
+[I 04:32:09.643 NotebookApp] Adapting to protocol v5.1 for kernel fa672147-df04-4231-b8f9-8b9c2b037fce
+[I 04:32:11.642 NotebookApp] Adapting to protocol v5.1 for kernel fa672147-df04-4231-b8f9-8b9c2b037fce
+[W 04:33:30.819 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 04:33:31.237 NotebookApp] Adapting to protocol v5.1 for kernel d6f2b2c4-2964-4f09-8b58-dd072f0676fb
+[I 04:33:31.238 NotebookApp] Restoring connection for d6f2b2c4-2964-4f09-8b58-dd072f0676fb:f396c402da62451f80e00acef4eb8d95
+[I 04:33:32.273 NotebookApp] Starting buffering for 3ebd0f1b-6745-45a1-8498-4fb3faa8ee45:ac477a72ef96484d852ac74ed134edbd
+[W 04:33:39.645 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 04:33:41.644 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 04:33:42.517 NotebookApp] Starting buffering for fa672147-df04-4231-b8f9-8b9c2b037fce:68946581e70b4ea188500a8f046fa342
+[W 04:37:01.239 NotebookApp] WebSocket ping timeout after 119976 ms.
+[I 04:37:06.241 NotebookApp] Starting buffering for d6f2b2c4-2964-4f09-8b58-dd072f0676fb:f396c402da62451f80e00acef4eb8d95
+[I 08:15:43.524 NotebookApp] 302 GET /edit/data/only_lemma/wiki.1190157306 (188.32.72.143) 1.08ms
+[I 12:05:50.052 NotebookApp] Adapting to protocol v5.1 for kernel d6f2b2c4-2964-4f09-8b58-dd072f0676fb
+[I 12:05:50.053 NotebookApp] Restoring connection for d6f2b2c4-2964-4f09-8b58-dd072f0676fb:f396c402da62451f80e00acef4eb8d95
+[W 12:16:50.054 NotebookApp] WebSocket ping timeout after 119960 ms.
+[I 12:16:55.056 NotebookApp] Starting buffering for d6f2b2c4-2964-4f09-8b58-dd072f0676fb:f396c402da62451f80e00acef4eb8d95
+[I 12:22:29.243 NotebookApp] Adapting to protocol v5.1 for kernel d6f2b2c4-2964-4f09-8b58-dd072f0676fb
+[I 12:22:29.244 NotebookApp] Restoring connection for d6f2b2c4-2964-4f09-8b58-dd072f0676fb:f396c402da62451f80e00acef4eb8d95
+[W 12:23:59.244 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 12:24:01.919 NotebookApp] Starting buffering for d6f2b2c4-2964-4f09-8b58-dd072f0676fb:f396c402da62451f80e00acef4eb8d95
+[W 12:49:38.493 NotebookApp] Forbidden
+[W 12:49:38.494 NotebookApp] 403 GET /api/sessions?_=1525035258023 (130.245.70.28) 1.35ms referer=http://35.196.26.71:8888/tree?nsukey=ywaXax1rDQO2BlwpoyUrH0i5BFb0EspmakE6wQu0D2Fm02BKBCpMF6GYihfNhIZtjOh9t34ZhD5wvq1p6OH739jPOzsBJ1t5XBS6tfMQp9lxVQuHCD7hwZ0GUPPUz2FMeZmm2F12FCSenzQNM0h8kOSbadCLTYE6Dz8RgMMrgqyMSedXb5cWC76BFRhpTy39RV52cYx8707xRUqVLTKfergilqlA3D3D
+[W 12:49:38.498 NotebookApp] Forbidden
+[W 12:49:38.499 NotebookApp] 403 GET /api/terminals?_=1525035258024 (130.245.70.28) 1.10ms referer=http://35.196.26.71:8888/tree?nsukey=ywaXax1rDQO2BlwpoyUrH0i5BFb0EspmakE6wQu0D2Fm02BKBCpMF6GYihfNhIZtjOh9t34ZhD5wvq1p6OH739jPOzsBJ1t5XBS6tfMQp9lxVQuHCD7hwZ0GUPPUz2FMeZmm2F12FCSenzQNM0h8kOSbadCLTYE6Dz8RgMMrgqyMSedXb5cWC76BFRhpTy39RV52cYx8707xRUqVLTKfergilqlA3D3D
+[W 12:49:52.726 NotebookApp] Forbidden
+[W 12:49:52.727 NotebookApp] 403 GET /api/sessions?_=1525035258025 (130.245.70.28) 1.32ms referer=http://35.196.26.71:8888/tree?nsukey=ywaXax1rDQO2BlwpoyUrH0i5BFb0EspmakE6wQu0D2Fm02BKBCpMF6GYihfNhIZtjOh9t34ZhD5wvq1p6OH739jPOzsBJ1t5XBS6tfMQp9lxVQuHCD7hwZ0GUPPUz2FMeZmm2F12FCSenzQNM0h8kOSbadCLTYE6Dz8RgMMrgqyMSedXb5cWC76BFRhpTy39RV52cYx8707xRUqVLTKfergilqlA3D3D
+[W 12:49:52.728 NotebookApp] Forbidden
+[W 12:49:52.728 NotebookApp] 403 GET /api/terminals?_=1525035258026 (130.245.70.28) 0.75ms referer=http://35.196.26.71:8888/tree?nsukey=ywaXax1rDQO2BlwpoyUrH0i5BFb0EspmakE6wQu0D2Fm02BKBCpMF6GYihfNhIZtjOh9t34ZhD5wvq1p6OH739jPOzsBJ1t5XBS6tfMQp9lxVQuHCD7hwZ0GUPPUz2FMeZmm2F12FCSenzQNM0h8kOSbadCLTYE6Dz8RgMMrgqyMSedXb5cWC76BFRhpTy39RV52cYx8707xRUqVLTKfergilqlA3D3D
+[I 12:49:52.769 NotebookApp] 302 GET /tree?nsukey=ywaXax1rDQO2BlwpoyUrH0i5BFb0EspmakE6wQu0D2Fm02BKBCpMF6GYihfNhIZtjOh9t34ZhD5wvq1p6OH739jPOzsBJ1t5XBS6tfMQp9lxVQuHCD7hwZ0GUPPUz2FMeZmm2F12FCSenzQNM0h8kOSbadCLTYE6Dz8RgMMrgqyMSedXb5cWC76BFRhpTy39RV52cYx8707xRUqVLTKfergilqlA3D3D (130.245.70.28) 0.94ms
+[I 12:49:55.610 NotebookApp] 302 POST /login?next=%2Ftree%3Fnsukey%3DywaXax1rDQO2BlwpoyUrH0i5BFb0EspmakE6wQu0D2Fm02BKBCpMF6GYihfNhIZtjOh9t34ZhD5wvq1p6OH739jPOzsBJ1t5XBS6tfMQp9lxVQuHCD7hwZ0GUPPUz2FMeZmm2F12FCSenzQNM0h8kOSbadCLTYE6Dz8RgMMrgqyMSedXb5cWC76BFRhpTy39RV52cYx8707xRUqVLTKfergilqlA3D3D (130.245.70.28) 1.37ms
+[I 12:50:03.151 NotebookApp] Adapting to protocol v5.1 for kernel fa672147-df04-4231-b8f9-8b9c2b037fce
+[I 12:52:03.269 NotebookApp] Saving file at /DataTime.ipynb
+[I 12:54:03.247 NotebookApp] Saving file at /DataTime.ipynb
+[I 12:56:03.263 NotebookApp] Saving file at /DataTime.ipynb
+[I 12:58:03.228 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:00:03.502 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:02:03.335 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:04:03.312 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:06:03.408 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:08:03.391 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:10:03.404 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:12:03.418 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:14:05.132 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:16:03.424 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:18:03.431 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:20:03.415 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:22:03.439 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:24:03.447 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:26:03.449 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:28:03.464 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:30:03.507 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:32:03.468 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:34:13.480 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:36:13.515 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:36:26.428 NotebookApp] Adapting to protocol v5.1 for kernel 86d7b8dd-03ad-48e6-8068-bff1e433e745
+[I 13:38:45.331 NotebookApp] Saving file at /CategoryVisit.ipynb
+[I 13:40:13.502 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:41:28.355 NotebookApp] Saving file at /CategoryVisit.ipynb
+[I 13:42:06.108 NotebookApp] Saving file at /CategoryVisit.ipynb
+[I 13:42:15.906 NotebookApp] Saving file at /DataTime.ipynb
+[I 13:43:17.327 NotebookApp] Saving file at /CategoryVisit.ipynb
+[I 13:44:15.871 NotebookApp] Saving file at /DataTime.ipynb
