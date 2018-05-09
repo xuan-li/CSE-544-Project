@@ -24,13 +24,13 @@ Store all data into `./data` folder. Feel free to put big files in this fold bec
 - [ ] Conclude with findings based on the data analysis.
 
 ## Group Member
-- Xuan Li 111676019
-- Xiaofei Sun 111753600
-- Xuan Xu 111675940
-- Yunqing Yang 111485471
-- Hongyi Duanmu 111464575
-- Keyi Chen 110947716
-- Yicheng Lin 111583117
+- Xuan Li
+- Xiaofei Sun
+- Xuan Xu
+- Yunqing Yang
+- Hongyi Duanmu
+- Keyi Chen
+- Yicheng Lin
 
 ## Hypothesis
 ![plot.png](plot.png)
