@@ -7521,3 +7521,752 @@ tornado.websocket.WebSocketClosedError
 [I 15:48:49.891 NotebookApp] Saving file at /Language.ipynb
 [I 15:49:09.635 NotebookApp] Adapting to protocol v5.1 for kernel 601df9f7-b7d5-42ef-8bc5-75c5ae67ffc4
 [I 15:49:26.876 NotebookApp] New terminal with automatic name: 1
+[I 15:51:12.733 NotebookApp] Saving file at /DataTime.ipynb
+[I 15:53:12.711 NotebookApp] Saving file at /DataTime.ipynb
+[I 15:54:02.899 NotebookApp] 302 GET / (189.253.28.168) 0.62ms
+[I 15:56:07.509 NotebookApp] Starting buffering for c7c4ca0f-8434-4125-881d-a6681e2a21e2:b3c268ea4eda420f8d45744f54bd5539
+[I 15:57:15.997 NotebookApp] Adapting to protocol v5.1 for kernel c7c4ca0f-8434-4125-881d-a6681e2a21e2
+[I 15:57:15.998 NotebookApp] Restoring connection for c7c4ca0f-8434-4125-881d-a6681e2a21e2:b3c268ea4eda420f8d45744f54bd5539
+[I 16:01:22.739 NotebookApp] Saving file at /DataTime.ipynb
+[I 16:03:26.548 NotebookApp] 302 GET / (189.175.29.98) 0.97ms
+[W 16:03:39.637 NotebookApp] WebSocket ping timeout after 119937 ms.
+[I 16:05:22.758 NotebookApp] Saving file at /DataTime.ipynb
+[I 16:07:17.390 NotebookApp] Saving file at /DataTime-Copy1.ipynb
+[I 16:07:22.517 NotebookApp] Saving file at /DataTime.ipynb
+[I 16:08:33.124 NotebookApp] 302 GET / (187.144.236.29) 0.67ms
+[W 16:10:45.999 NotebookApp] WebSocket ping timeout after 119976 ms.
+[W 16:10:50.189 NotebookApp] WebSocket ping timeout after 119976 ms.
+[I 16:10:51.002 NotebookApp] Starting buffering for c7c4ca0f-8434-4125-881d-a6681e2a21e2:b3c268ea4eda420f8d45744f54bd5539
+[I 16:10:55.192 NotebookApp] Starting buffering for c28387b3-08cc-4d3b-bfca-fdd7478c78fd:cfdd66ee50924419848aaffa8ba22674
+[W 16:11:02.918 NotebookApp] WebSocket ping timeout after 119974 ms.
+[W 16:11:07.247 NotebookApp] WebSocket ping timeout after 119943 ms.
+[I 16:11:07.919 NotebookApp] Starting buffering for 0f078125-a245-4abf-a74f-03cc50b78d22:53a9a48fcb704f1a8c38af6ef2cb7590
+[I 16:11:12.249 NotebookApp] Starting buffering for 601df9f7-b7d5-42ef-8bc5-75c5ae67ffc4:a2b1d29384df4174a36e84d799846ddf
+[I 16:33:39.935 NotebookApp] 302 GET / (189.159.149.23) 0.80ms
+[I 16:40:37.550 NotebookApp] 302 GET / (116.111.5.121) 0.76ms
+[I 16:43:04.400 NotebookApp] Adapting to protocol v5.1 for kernel c28387b3-08cc-4d3b-bfca-fdd7478c78fd
+[I 16:43:04.401 NotebookApp] Restoring connection for c28387b3-08cc-4d3b-bfca-fdd7478c78fd:cfdd66ee50924419848aaffa8ba22674
+[I 16:52:38.037 NotebookApp] Adapting to protocol v5.1 for kernel c7c4ca0f-8434-4125-881d-a6681e2a21e2
+[I 16:52:38.038 NotebookApp] Restoring connection for c7c4ca0f-8434-4125-881d-a6681e2a21e2:b3c268ea4eda420f8d45744f54bd5539
+[I 17:08:54.200 NotebookApp] Saving file at /Language.ipynb
+[I 17:10:54.208 NotebookApp] Saving file at /Language.ipynb
+[I 17:14:54.180 NotebookApp] Saving file at /Language.ipynb
+[I 17:16:54.233 NotebookApp] Saving file at /Language.ipynb
+[I 17:18:54.170 NotebookApp] Saving file at /Language.ipynb
+[I 17:20:54.186 NotebookApp] Saving file at /Language.ipynb
+[I 17:20:57.789 NotebookApp] Saving file at /Language.ipynb
+[I 17:26:22.118 NotebookApp] 302 GET / (189.134.15.154) 0.70ms
+[I 17:34:14.414 NotebookApp] Kernel interrupted: c7c4ca0f-8434-4125-881d-a6681e2a21e2
+[I 17:35:33.381 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 17:36:30.209 NotebookApp] 302 GET / (187.207.24.51) 0.70ms
+[I 18:02:26.399 NotebookApp] 302 GET / (189.244.207.177) 0.62ms
+[I 18:02:54.242 NotebookApp] Saving file at /Language.ipynb
+[I 18:04:54.199 NotebookApp] Saving file at /Language.ipynb
+[I 18:06:54.401 NotebookApp] Saving file at /Language.ipynb
+[I 18:08:54.082 NotebookApp] Saving file at /Language.ipynb
+[I 18:09:30.379 NotebookApp] Kernel started: d76dc335-641e-4419-b3af-031a19c5c59a
+[I 18:09:31.070 NotebookApp] Adapting to protocol v5.1 for kernel d76dc335-641e-4419-b3af-031a19c5c59a
+[I 18:14:38.174 NotebookApp] Adapting to protocol v5.1 for kernel 0f078125-a245-4abf-a74f-03cc50b78d22
+[I 18:14:38.175 NotebookApp] Restoring connection for 0f078125-a245-4abf-a74f-03cc50b78d22:53a9a48fcb704f1a8c38af6ef2cb7590
+[I 18:15:45.723 NotebookApp] Adapting to protocol v5.1 for kernel 601df9f7-b7d5-42ef-8bc5-75c5ae67ffc4
+[I 18:15:45.724 NotebookApp] Restoring connection for 601df9f7-b7d5-42ef-8bc5-75c5ae67ffc4:a2b1d29384df4174a36e84d799846ddf
+[I 18:16:38.901 NotebookApp] Saving file at /DataTime.ipynb
+[I 18:23:29.019 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:23:46.958 NotebookApp] Starting buffering for c7c4ca0f-8434-4125-881d-a6681e2a21e2:b3c268ea4eda420f8d45744f54bd5539
+[I 18:23:53.438 NotebookApp] Creating new directory in 
+[W 18:24:15.926 NotebookApp] delete /Untitled Folder
+[I 18:24:35.707 NotebookApp] Starting buffering for d76dc335-641e-4419-b3af-031a19c5c59a:50dbbb54ab4b44508404aa5d3f41ca7b
+[I 18:24:52.908 NotebookApp] Adapting to protocol v5.1 for kernel c7c4ca0f-8434-4125-881d-a6681e2a21e2
+[I 18:25:03.038 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:26:10.664 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:26:20.553 NotebookApp] 302 GET / (187.144.189.125) 0.66ms
+[I 18:26:52.813 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:27:55.955 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:28:21.702 NotebookApp] Kernel interrupted: c7c4ca0f-8434-4125-881d-a6681e2a21e2
+[I 18:28:38.444 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:28:40.316 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:28:40.912 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:28:45.452 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:28:50.921 NotebookApp] Kernel interrupted: c7c4ca0f-8434-4125-881d-a6681e2a21e2
+[I 18:28:53.041 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:28:58.759 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:30:52.815 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:31:20.672 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:31:25.676 NotebookApp] Kernel interrupted: c7c4ca0f-8434-4125-881d-a6681e2a21e2
+[I 18:31:30.681 NotebookApp] 302 GET / (77.105.71.253) 0.58ms
+[I 18:32:52.811 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:32:59.939 NotebookApp] Saving file at /DataTime.ipynb
+[I 18:34:52.813 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:34:59.911 NotebookApp] Saving file at /DataTime.ipynb
+[I 18:35:11.331 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:36:22.935 NotebookApp] Starting buffering for c7c4ca0f-8434-4125-881d-a6681e2a21e2:12ea102439114fea8a6378c02db3d38e
+[I 18:36:24.498 NotebookApp] Adapting to protocol v5.1 for kernel c7c4ca0f-8434-4125-881d-a6681e2a21e2
+[I 18:36:59.976 NotebookApp] Saving file at /DataTime.ipynb
+[I 18:37:03.244 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:37:05.552 NotebookApp] Adapting to protocol v5.1 for kernel 601df9f7-b7d5-42ef-8bc5-75c5ae67ffc4
+[I 18:37:16.834 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:37:22.320 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:37:23.213 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:38:59.971 NotebookApp] Saving file at /DataTime.ipynb
+[I 18:39:05.536 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 18:40:56.579 NotebookApp] Adapting to protocol v5.1 for kernel 0f078125-a245-4abf-a74f-03cc50b78d22
+[I 18:40:59.994 NotebookApp] Saving file at /DataTime.ipynb
+[I 18:41:05.593 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 18:42:32.678 NotebookApp] Adapting to protocol v5.1 for kernel b08001fd-9360-4d09-a294-00a876ce930d
+[I 18:42:40.099 NotebookApp] Kernel started: 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb
+[I 18:42:40.683 NotebookApp] Adapting to protocol v5.1 for kernel 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb
+[I 18:42:58.742 NotebookApp] Creating new notebook in 
+[I 18:42:59.354 NotebookApp] Kernel started: 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0
+[I 18:42:59.981 NotebookApp] Saving file at /DataTime.ipynb
+[I 18:43:00.029 NotebookApp] Adapting to protocol v5.1 for kernel 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0
+[I 18:43:26.177 NotebookApp] Adapting to protocol v5.1 for kernel 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb
+[I 18:43:50.168 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:44:24.470 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:44:33.409 NotebookApp] Saving file at /Category.ipynb
+[I 18:44:40.547 NotebookApp] Saving file at /CategoryVisit.ipynb
+[I 18:44:59.410 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 18:45:00.027 NotebookApp] Saving file at /DataTime.ipynb
+[I 18:45:09.033 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:45:22.926 NotebookApp] 302 GET / (201.127.138.177) 0.60ms
+[I 18:45:34.974 NotebookApp] Adapting to protocol v5.1 for kernel 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb
+[I 18:46:26.093 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:46:42.304 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:46:59.397 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 18:47:00.014 NotebookApp] Saving file at /DataTime.ipynb
+[I 18:47:08.094 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:47:24.555 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:47:35.766 NotebookApp] Saving file at /CategoryVisit.ipynb
+[I 18:48:26.334 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:48:59.458 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 18:49:00.009 NotebookApp] Saving file at /DataTime.ipynb
+[I 18:49:05.810 NotebookApp] New terminal with automatic name: 2
+[I 18:50:09.674 NotebookApp] Adapting to protocol v5.1 for kernel 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb
+[I 18:50:42.241 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 18:50:54.267 NotebookApp] Saving file at /Language.ipynb
+[I 18:50:59.999 NotebookApp] Saving file at /DataTime.ipynb
+[I 18:51:47.702 NotebookApp] Kernel started: b4784549-d373-4430-bdcc-727d8c857adb
+[I 18:51:48.347 NotebookApp] Adapting to protocol v5.1 for kernel b4784549-d373-4430-bdcc-727d8c857adb
+[I 18:51:55.271 NotebookApp] Starting buffering for b4784549-d373-4430-bdcc-727d8c857adb:a34a4b3d928e496bb760c92c539ef249
+[I 18:52:20.050 NotebookApp] Adapting to protocol v5.1 for kernel b08001fd-9360-4d09-a294-00a876ce930d
+[I 18:52:29.071 NotebookApp] Starting buffering for c7c4ca0f-8434-4125-881d-a6681e2a21e2:a0ece63cd6934ae2882078b659e84c7d
+[I 18:52:33.210 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 18:52:40.649 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 18:52:40.759 NotebookApp] Adapting to protocol v5.1 for kernel c7c4ca0f-8434-4125-881d-a6681e2a21e2
+[I 18:52:54.209 NotebookApp] Saving file at /Language.ipynb
+[I 18:52:59.414 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 18:53:00.027 NotebookApp] Saving file at /DataTime.ipynb
+[I 18:53:16.919 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:53:29.268 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:53:33.051 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:53:37.493 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:54:40.697 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:54:54.259 NotebookApp] Saving file at /Language.ipynb
+[I 18:54:59.460 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 18:55:10.185 NotebookApp] Saving file at /DataTime.ipynb
+[I 18:56:30.334 NotebookApp] 302 GET / (189.152.203.76) 0.69ms
+[I 18:56:40.679 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 18:56:54.258 NotebookApp] Saving file at /Language.ipynb
+[I 18:58:54.298 NotebookApp] Saving file at /Language.ipynb
+[I 18:59:10.052 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:00:40.683 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:00:54.171 NotebookApp] Saving file at /Language.ipynb
+[I 19:01:10.096 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:02:30.836 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:02:54.313 NotebookApp] Saving file at /Language.ipynb
+[I 19:02:59.797 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 19:03:10.074 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:04:09.794 NotebookApp] Saving file at /Language.ipynb
+[I 19:04:41.362 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:04:59.522 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 19:06:02.446 NotebookApp] 302 GET / (189.232.9.171) 0.81ms
+[W 19:06:04.402 NotebookApp] WebSocket ping timeout after 119893 ms.
+[W 19:06:08.176 NotebookApp] WebSocket ping timeout after 119880 ms.
+[I 19:06:09.403 NotebookApp] Starting buffering for c28387b3-08cc-4d3b-bfca-fdd7478c78fd:cfdd66ee50924419848aaffa8ba22674
+[I 19:06:13.178 NotebookApp] Starting buffering for 0f078125-a245-4abf-a74f-03cc50b78d22:53a9a48fcb704f1a8c38af6ef2cb7590
+[W 19:06:15.724 NotebookApp] WebSocket ping timeout after 119953 ms.
+[W 19:06:40.761 NotebookApp] WebSocket ping timeout after 119975 ms.
+[I 19:06:45.763 NotebookApp] Starting buffering for c7c4ca0f-8434-4125-881d-a6681e2a21e2:364c15b02d7447c089f13e55ac28dd16
+[I 19:07:34.689 NotebookApp] Adapting to protocol v5.1 for kernel c7c4ca0f-8434-4125-881d-a6681e2a21e2
+[I 19:07:34.690 NotebookApp] Restoring connection for c7c4ca0f-8434-4125-881d-a6681e2a21e2:364c15b02d7447c089f13e55ac28dd16
+[W 19:09:04.690 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 19:09:09.692 NotebookApp] Starting buffering for c7c4ca0f-8434-4125-881d-a6681e2a21e2:364c15b02d7447c089f13e55ac28dd16
+[W 19:10:00.032 NotebookApp] WebSocket ping timeout after 119941 ms.
+[W 19:10:02.680 NotebookApp] WebSocket ping timeout after 119925 ms.
+[I 19:10:05.036 NotebookApp] Starting buffering for 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0:768352116b8d4555890082152b4d43ca
+[W 19:10:05.554 NotebookApp] WebSocket ping timeout after 119933 ms.
+[W 19:10:06.601 NotebookApp] WebSocket ping timeout after 119957 ms.
+[I 19:10:07.682 NotebookApp] Starting buffering for b08001fd-9360-4d09-a294-00a876ce930d:77777bb46bf642fb81c7e7a230eef3ff
+[I 19:10:10.556 NotebookApp] Starting buffering for 601df9f7-b7d5-42ef-8bc5-75c5ae67ffc4:59a62f5b02d844c1800c288d5d6aff36
+[W 19:10:10.687 NotebookApp] WebSocket ping timeout after 119946 ms.
+[I 19:10:15.689 NotebookApp] Starting buffering for 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb:03ddb53e57a54db28b758cb8b78d1bbd
+[I 19:13:57.957 NotebookApp] Adapting to protocol v5.1 for kernel 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0
+[I 19:13:58.314 NotebookApp] Adapting to protocol v5.1 for kernel c28387b3-08cc-4d3b-bfca-fdd7478c78fd
+[I 19:13:58.315 NotebookApp] Restoring connection for c28387b3-08cc-4d3b-bfca-fdd7478c78fd:cfdd66ee50924419848aaffa8ba22674
+[I 19:14:01.873 NotebookApp] Adapting to protocol v5.1 for kernel 601df9f7-b7d5-42ef-8bc5-75c5ae67ffc4
+[I 19:14:11.600 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:14:43.657 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 19:14:44.013 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 19:14:44.152 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 19:14:44.220 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 19:14:44.286 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 19:14:44.356 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 19:14:44.428 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 19:14:44.494 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 19:14:44.560 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 19:14:46.041 NotebookApp] Starting buffering for 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0:8d1ed47f58564db18bf1b2b4c479847d
+[I 19:14:47.417 NotebookApp] Adapting to protocol v5.1 for kernel 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0
+[I 19:15:48.547 NotebookApp] Saving file at /Language.ipynb
+[I 19:15:52.170 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:16:08.861 NotebookApp] Kernel shutdown: 0f078125-a245-4abf-a74f-03cc50b78d22
+[I 19:16:08.928 NotebookApp] Kernel started: 14e84c45-3fb8-49d7-b586-73ee853d0119
+[I 19:16:09.488 NotebookApp] Adapting to protocol v5.1 for kernel 14e84c45-3fb8-49d7-b586-73ee853d0119
+[I 19:16:11.525 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:16:17.024 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:16:39.470 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:16:44.901 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:16:46.601 NotebookApp] Adapting to protocol v5.1 for kernel c7c4ca0f-8434-4125-881d-a6681e2a21e2
+[I 19:16:47.482 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 19:16:57.034 NotebookApp] Kernel interrupted: c7c4ca0f-8434-4125-881d-a6681e2a21e2
+[I 19:17:49.409 NotebookApp] Saving file at /Language.ipynb
+[I 19:18:11.584 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:18:46.691 NotebookApp] Saving file at /Revision Analysis.ipynb
+[W 19:20:01.716 NotebookApp] 404 GET /api/contents/DataTime-Copy1.ipynb?content=0&_=1525880566578 (130.245.70.25): No such file or directory: DataTime-Copy1.ipynb
+[W 19:20:01.716 NotebookApp] No such file or directory: DataTime-Copy1.ipynb
+[W 19:20:01.717 NotebookApp] 404 GET /api/contents/DataTime-Copy1.ipynb?content=0&_=1525880566578 (130.245.70.25) 1.63ms referer=http://35.196.26.71:8888/notebooks/DataTime-Copy1.ipynb
+[I 19:20:02.083 NotebookApp] Uploading file to /DataTime-Copy1.ipynb
+[I 19:20:11.461 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:21:48.495 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:21:57.619 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:22:05.832 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:22:11.637 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:22:46.534 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:23:49.539 NotebookApp] Saving file at /Language.ipynb
+[I 19:24:46.663 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:25:21.656 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:25:33.918 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:26:11.644 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:26:32.912 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:26:33.326 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:26:33.692 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:26:42.163 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:26:46.548 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:26:49.779 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:26:50.774 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:26:55.764 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:27:00.609 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:27:01.760 NotebookApp] Saving file at /Revision Analysis.ipynb
+[I 19:27:48.089 NotebookApp] Saving file at /Topic 2 -Revisions.ipynb
+[I 19:27:48.906 NotebookApp] Starting buffering for c7c4ca0f-8434-4125-881d-a6681e2a21e2:288278466ccb48918d29208a766172f2
+[I 19:27:56.055 NotebookApp] Adapting to protocol v5.1 for kernel c7c4ca0f-8434-4125-881d-a6681e2a21e2
+[I 19:28:05.081 NotebookApp] Saving file at /Topic2_Revisions.ipynb
+[I 19:28:05.894 NotebookApp] Starting buffering for c7c4ca0f-8434-4125-881d-a6681e2a21e2:2ca59ffe78d14b249706d2b1898b7e36
+[I 19:28:11.647 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:28:29.748 NotebookApp] Kernel started: ad513a8a-b257-4ab0-bc09-11d9927ff098
+[I 19:28:30.334 NotebookApp] Adapting to protocol v5.1 for kernel ad513a8a-b257-4ab0-bc09-11d9927ff098
+[I 19:28:40.843 NotebookApp] Saving file at /MetadataMerger.ipynb
+[I 19:28:41.304 NotebookApp] Starting buffering for ad513a8a-b257-4ab0-bc09-11d9927ff098:143ba0a572d545478038057dd1fc4c80
+[I 19:28:49.496 NotebookApp] Adapting to protocol v5.1 for kernel 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0
+[I 19:30:11.672 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:32:11.637 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:34:11.645 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:36:11.758 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:37:50.074 NotebookApp] Saving file at /Language.ipynb
+[I 19:38:11.750 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:38:58.644 NotebookApp] Kernel started: dd0613d5-eca0-4219-939a-58eee091b69e
+[I 19:38:59.287 NotebookApp] Adapting to protocol v5.1 for kernel dd0613d5-eca0-4219-939a-58eee091b69e
+[I 19:39:04.975 NotebookApp] Starting buffering for dd0613d5-eca0-4219-939a-58eee091b69e:aebb2dff70a6490697667f6c36f67176
+[I 19:39:49.472 NotebookApp] Saving file at /Language.ipynb
+[I 19:40:11.692 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:41:49.569 NotebookApp] Saving file at /Language.ipynb
+[I 19:42:11.627 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:44:11.674 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:46:11.727 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:47:12.793 NotebookApp] Saving file at /DataTime-Copy1.ipynb
+[I 19:47:40.098 NotebookApp] Starting buffering for 601df9f7-b7d5-42ef-8bc5-75c5ae67ffc4:a2b1d29384df4174a36e84d799846ddf
+[I 19:48:13.799 NotebookApp] Saving file at /DataTime.ipynb
+[I 19:49:20.846 NotebookApp] Adapting to protocol v5.1 for kernel 601df9f7-b7d5-42ef-8bc5-75c5ae67ffc4
+[I 19:50:23.436 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 19:50:28.557 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 19:51:20.722 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 19:53:19.686 NotebookApp] Kernel started: b8b0e199-83f7-4255-aa76-1371c1ae00bc
+[I 19:53:20.305 NotebookApp] Adapting to protocol v5.1 for kernel b8b0e199-83f7-4255-aa76-1371c1ae00bc
+[I 19:53:27.737 NotebookApp] Adapting to protocol v5.1 for kernel 913f7512-f473-47dc-ad16-1762b2bd35ef
+[I 19:55:20.898 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 19:55:22.313 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 19:57:20.844 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 19:57:43.785 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 19:59:12.882 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 19:59:14.025 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 19:59:21.006 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 19:59:34.854 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 19:59:39.569 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 19:59:40.545 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 19:59:42.610 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 19:59:52.182 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:01:08.860 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:02:17.541 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:02:18.572 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:02:19.839 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:02:26.629 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:02:32.677 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:02:33.401 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:02:34.978 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:02:37.571 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:02:38.494 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:02:42.052 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:02:50.373 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:02:54.581 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:02:55.841 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:02:56.608 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:02:57.718 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:03:00.475 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:03:06.729 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:03:10.033 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:03:12.903 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:03:14.742 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:03:19.680 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:03:20.716 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:03:34.973 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:04:02.146 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:04:07.269 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:04:11.304 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:04:23.381 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:04:35.503 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:04:39.955 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:04:47.881 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 20:04:49.103 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:04:50.042 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:04:51.655 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:04:53.022 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:04:58.885 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:04:59.357 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:05:20.721 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:05:47.742 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:06:06.842 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:06:09.657 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:06:19.337 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:06:21.198 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:06:22.639 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:06:28.464 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:06:41.573 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:06:47.326 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:06:47.882 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 20:06:49.114 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:06:50.392 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:06:51.719 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:06:52.607 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:06:53.574 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:07:20.722 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:08:14.303 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:08:17.638 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:08:20.694 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:08:21.752 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:08:22.345 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:08:24.105 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:08:24.959 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:08:27.596 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:08:29.005 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:08:29.409 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:08:36.000 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:08:44.029 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:08:47.105 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:08:48.408 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 20:08:59.412 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:08:59.838 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 20:09:08.578 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:09:14.511 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:09:20.729 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:09:25.746 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 20:09:28.305 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:10:02.258 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:10:05.429 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:10:09.366 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:10:13.903 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 20:10:19.162 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:10:24.788 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:10:29.810 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:10:30.949 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:10:36.782 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:10:47.753 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 20:11:42.218 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:11:56.682 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:12:48.439 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 20:13:20.739 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 20:15:00.444 NotebookApp] Starting buffering for 14e84c45-3fb8-49d7-b586-73ee853d0119:53a9a48fcb704f1a8c38af6ef2cb7590
+[I 20:15:02.568 NotebookApp] Adapting to protocol v5.1 for kernel 14e84c45-3fb8-49d7-b586-73ee853d0119
+[I 20:15:12.382 NotebookApp] Starting buffering for 14e84c45-3fb8-49d7-b586-73ee853d0119:37878e9ddf59432488d183cefc8a8879
+[I 20:15:16.324 NotebookApp] Adapting to protocol v5.1 for kernel 14e84c45-3fb8-49d7-b586-73ee853d0119
+[I 20:15:34.282 NotebookApp] Adapting to protocol v5.1 for kernel 14e84c45-3fb8-49d7-b586-73ee853d0119
+[I 20:15:34.297 NotebookApp] 302 GET /notebooks/TimeSeries.ipynb (101.227.139.161) 1.40ms
+[I 20:15:47.158 NotebookApp] Adapting to protocol v5.1 for kernel 601df9f7-b7d5-42ef-8bc5-75c5ae67ffc4
+[I 20:16:33.433 NotebookApp] 302 GET /notebooks/TimeSeries.ipynb (101.226.233.156) 0.99ms
+[I 20:17:16.557 NotebookApp] Saving file at /DataTime.ipynb
+[I 20:17:44.383 NotebookApp] Adapting to protocol v5.1 for kernel b4784549-d373-4430-bdcc-727d8c857adb
+[I 20:18:46.818 NotebookApp] Saving file at /Graph.ipynb
+[I 20:19:02.514 NotebookApp] Saving file at /Graph.ipynb
+[I 20:19:09.298 NotebookApp] Saving file at /Graph.ipynb
+[I 20:19:11.965 NotebookApp] Saving file at /Graph.ipynb
+[I 20:19:58.618 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:20:17.917 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:20:21.847 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:20:29.711 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:21:44.258 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:22:17.202 NotebookApp] Starting buffering for b8b0e199-83f7-4255-aa76-1371c1ae00bc:9e773bd4f8cc4c2faebf76072c185113
+[I 20:22:18.910 NotebookApp] Starting buffering for 913f7512-f473-47dc-ad16-1762b2bd35ef:afda47f02071416da4fbd5b537727ee1
+[I 20:23:17.854 NotebookApp] Adapting to protocol v5.1 for kernel c7c4ca0f-8434-4125-881d-a6681e2a21e2
+[I 20:23:44.287 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:24:08.578 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:24:16.595 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:25:18.428 NotebookApp] Saving file at /Topic2_Revisions.ipynb
+[I 20:25:44.274 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:26:13.152 NotebookApp] Starting buffering for c7c4ca0f-8434-4125-881d-a6681e2a21e2:37150478713f46dab45f3e100cef68d1
+[I 20:27:00.333 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:27:06.200 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:27:44.304 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:29:44.383 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:31:44.325 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:35:44.468 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:36:19.607 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:39:44.509 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:41:44.543 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 20:46:21.608 NotebookApp] Adapting to protocol v5.1 for kernel b08001fd-9360-4d09-a294-00a876ce930d
+[I 20:46:25.531 NotebookApp] Starting buffering for b08001fd-9360-4d09-a294-00a876ce930d:de412c5f8d5e42d08d1a7ae67c52161b
+[I 20:46:30.762 NotebookApp] Kernel shutdown: b08001fd-9360-4d09-a294-00a876ce930d
+[W 20:46:41.670 NotebookApp] delete /Category.ipynb
+[I 20:46:46.797 NotebookApp] Adapting to protocol v5.1 for kernel 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb
+[I 20:48:48.135 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 20:48:59.903 NotebookApp] Saving file at /DataTime.ipynb
+[I 20:50:46.932 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 20:51:00.059 NotebookApp] Saving file at /DataTime.ipynb
+[I 20:52:33.782 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 20:52:47.595 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 20:53:03.481 NotebookApp] Saving file at /DataTime.ipynb
+[I 20:54:47.680 NotebookApp] Saving file at /Topic7_Category.ipynb
+[W 20:59:05.894 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[I 20:59:06.913 NotebookApp] Adapting to protocol v5.1 for kernel b4784549-d373-4430-bdcc-727d8c857adb
+[I 20:59:10.154 NotebookApp] Starting buffering for 601df9f7-b7d5-42ef-8bc5-75c5ae67ffc4:7e5f97089ee84ef8b70b23ff84b78627
+[I 20:59:33.637 NotebookApp] Saving file at /DataTime.ipynb
+[I 21:00:14.686 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:00:17.005 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:00:20.958 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:00:47.177 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 21:00:51.105 NotebookApp] Kernel interrupted: b4784549-d373-4430-bdcc-727d8c857adb
+ERROR:tornado.general:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/zmq/eventloop/zmqstream.py", line 432, in _run_callback
+    callback(*args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/tornado/stack_context.py", line 276, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/kernelbase.py", line 283, in dispatcher
+    return self.dispatch_shell(stream, msg)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/kernelbase.py", line 233, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/kernelbase.py", line 399, in execute_request
+    user_expressions, allow_stdin)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/ipkernel.py", line 208, in do_execute
+    res = shell.run_cell(code, store_history=store_history, silent=silent)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/ipykernel/zmqshell.py", line 537, in run_cell
+    return super(ZMQInteractiveShell, self).run_cell(*args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/interactiveshell.py", line 2737, in run_cell
+    self.events.trigger('post_execute')
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/IPython/core/events.py", line 73, in trigger
+    func(*args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/pyplot.py", line 149, in post_execute
+    draw_all()
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/_pylab_helpers.py", line 136, in draw_all
+    f_mgr.canvas.draw_idle()
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/backend_bases.py", line 2055, in draw_idle
+    self.draw(*args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/backends/backend_agg.py", line 433, in draw
+    self.figure.draw(self.renderer)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/artist.py", line 55, in draw_wrapper
+    return draw(artist, renderer, *args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/figure.py", line 1475, in draw
+    renderer, self, artists, self.suppressComposite)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/image.py", line 141, in _draw_list_compositing_images
+    a.draw(renderer)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/artist.py", line 55, in draw_wrapper
+    return draw(artist, renderer, *args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/axes/_base.py", line 2607, in draw
+    mimage._draw_list_compositing_images(renderer, self, artists)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/image.py", line 141, in _draw_list_compositing_images
+    a.draw(renderer)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/artist.py", line 55, in draw_wrapper
+    return draw(artist, renderer, *args, **kwargs)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/patches.py", line 550, in draw
+    transform = self.get_transform()
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/patches.py", line 199, in get_transform
+    return self.get_patch_transform() + artist.Artist.get_transform(self)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/patches.py", line 737, in get_patch_transform
+    self._update_patch_transform()
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/patches.py", line 716, in _update_patch_transform
+    rot_trans.rotate_deg_around(x0, y0, self.angle)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/transforms.py", line 2060, in rotate_deg_around
+    return self.translate(-x, -y).rotate_deg(degrees).translate(x, y)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/transforms.py", line 2073, in translate
+    self.invalidate()
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/transforms.py", line 140, in invalidate
+    return self._invalidate_internal(value, invalidating_node=self)
+  File "/home/xuanli2/penv/lib/python3.5/site-packages/matplotlib/transforms.py", line 157, in _invalidate_internal
+    status_changed = self._invalid < value
+KeyboardInterrupt
+[I 21:00:54.377 NotebookApp] Kernel interrupted: b4784549-d373-4430-bdcc-727d8c857adb
+[I 21:00:54.586 NotebookApp] Kernel interrupted: b4784549-d373-4430-bdcc-727d8c857adb
+[I 21:00:54.773 NotebookApp] Kernel interrupted: b4784549-d373-4430-bdcc-727d8c857adb
+[I 21:00:54.969 NotebookApp] Kernel interrupted: b4784549-d373-4430-bdcc-727d8c857adb
+[I 21:00:55.156 NotebookApp] Kernel interrupted: b4784549-d373-4430-bdcc-727d8c857adb
+[I 21:00:55.335 NotebookApp] Kernel interrupted: b4784549-d373-4430-bdcc-727d8c857adb
+[I 21:00:55.999 NotebookApp] Kernel interrupted: b4784549-d373-4430-bdcc-727d8c857adb
+[I 21:00:56.023 NotebookApp] Kernel interrupted: b4784549-d373-4430-bdcc-727d8c857adb
+[I 21:00:56.024 NotebookApp] Kernel interrupted: b4784549-d373-4430-bdcc-727d8c857adb
+[I 21:00:56.055 NotebookApp] Kernel interrupted: b4784549-d373-4430-bdcc-727d8c857adb
+[I 21:00:56.239 NotebookApp] Kernel interrupted: b4784549-d373-4430-bdcc-727d8c857adb
+[I 21:00:56.422 NotebookApp] Kernel interrupted: b4784549-d373-4430-bdcc-727d8c857adb
+[I 21:00:56.609 NotebookApp] Kernel interrupted: b4784549-d373-4430-bdcc-727d8c857adb
+[I 21:00:56.701 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel b4784549-d373-4430-bdcc-727d8c857adb restarted
+WARNING:root:kernel b4784549-d373-4430-bdcc-727d8c857adb restarted
+[I 21:01:12.122 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:01:22.634 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:01:24.214 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:01:33.669 NotebookApp] Saving file at /DataTime.ipynb
+[I 21:01:37.600 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:01:43.126 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:02:39.321 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:02:46.675 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 21:02:59.323 NotebookApp] Adapting to protocol v5.1 for kernel 601df9f7-b7d5-42ef-8bc5-75c5ae67ffc4
+[I 21:03:09.655 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:03:33.651 NotebookApp] Saving file at /DataTime.ipynb
+[I 21:03:35.599 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:03:45.229 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:03:45.602 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[W 21:04:19.175 NotebookApp] delete /DataTime-Copy1.ipynb
+[I 21:04:19.480 NotebookApp] Kernel shutdown: b8b0e199-83f7-4255-aa76-1371c1ae00bc
+[I 21:04:32.275 NotebookApp] Adapting to protocol v5.1 for kernel 601df9f7-b7d5-42ef-8bc5-75c5ae67ffc4
+[I 21:04:46.729 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 21:05:33.665 NotebookApp] Saving file at /DataTime.ipynb
+[I 21:06:32.440 NotebookApp] Saving file at /TimeSeries.ipynb
+[I 21:06:47.503 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 21:07:33.668 NotebookApp] Saving file at /DataTime.ipynb
+[I 21:07:44.663 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:08:16.677 NotebookApp] Adapting to protocol v5.1 for kernel c28387b3-08cc-4d3b-bfca-fdd7478c78fd
+[I 21:08:46.749 NotebookApp] Saving file at /Topic7_Category.ipynb
+[W 21:08:51.925 NotebookApp] Notebook DataTime.ipynb is not trusted
+[I 21:08:53.157 NotebookApp] Adapting to protocol v5.1 for kernel 14e84c45-3fb8-49d7-b586-73ee853d0119
+[I 21:09:33.554 NotebookApp] Saving file at /DataTime.ipynb
+[I 21:10:17.630 NotebookApp] Saving file at /Language.ipynb
+[I 21:10:30.354 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 21:10:53.309 NotebookApp] Saving file at /Topic3_Time.ipynb
+[W 21:10:53.310 NotebookApp] Notebook Topic3_Time.ipynb is not trusted
+[I 21:12:11.938 NotebookApp] Kernel started: 3e0d9034-4a65-475d-a98b-62f14464b61c
+[I 21:12:12.627 NotebookApp] Adapting to protocol v5.1 for kernel 3e0d9034-4a65-475d-a98b-62f14464b61c
+[I 21:12:17.551 NotebookApp] Saving file at /Language.ipynb
+[I 21:12:46.736 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 21:12:58.768 NotebookApp] Saving file at /Topic3_Time.ipynb
+[I 21:14:16.699 NotebookApp] Saving file at /Language.ipynb
+[I 21:14:46.749 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 21:16:17.506 NotebookApp] Saving file at /Language.ipynb
+[I 21:16:48.142 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 21:17:43.508 NotebookApp] Adapting to protocol v5.1 for kernel c28387b3-08cc-4d3b-bfca-fdd7478c78fd
+[I 21:18:16.565 NotebookApp] Saving file at /Language.ipynb
+[I 21:18:31.248 NotebookApp] Saving file at /Language.ipynb
+[I 21:19:30.600 NotebookApp] Saving file at /Language.ipynb
+[I 21:19:34.070 NotebookApp] Saving file at /Language.ipynb
+[I 21:20:16.536 NotebookApp] Saving file at /Language.ipynb
+[I 21:20:50.614 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:20:51.734 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:20:55.902 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:21:44.427 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:21:48.637 NotebookApp] Adapting to protocol v5.1 for kernel c28387b3-08cc-4d3b-bfca-fdd7478c78fd
+[I 21:22:15.807 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:23:44.438 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:23:48.723 NotebookApp] Saving file at /Language.ipynb
+[I 21:24:47.702 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 21:25:33.695 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:25:44.422 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:27:12.462 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:27:44.431 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:28:48.354 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 21:29:44.467 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:31:44.437 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:33:44.451 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:35:47.060 NotebookApp] Adapting to protocol v5.1 for kernel c28387b3-08cc-4d3b-bfca-fdd7478c78fd
+[I 21:35:47.396 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:37:45.743 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[I 21:44:04.893 NotebookApp] Starting buffering for b4784549-d373-4430-bdcc-727d8c857adb:c996458d6cc64d8fb675912200342c04
+[I 21:44:07.360 NotebookApp] Starting buffering for 601df9f7-b7d5-42ef-8bc5-75c5ae67ffc4:b59232e1b40641cfb7386296f94d4f1d
+[I 21:44:08.479 NotebookApp] Starting buffering for 3e0d9034-4a65-475d-a98b-62f14464b61c:a33c92bb124b40428e80de6e30a63bea
+[W 21:44:13.378 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[I 21:44:14.414 NotebookApp] Adapting to protocol v5.1 for kernel b4784549-d373-4430-bdcc-727d8c857adb
+[I 21:44:48.392 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[W 21:44:48.393 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[I 21:44:52.279 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[W 21:44:52.279 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[I 21:44:54.809 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[W 21:44:54.809 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[I 21:46:14.244 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[W 21:46:14.245 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[W 21:46:46.798 NotebookApp] WebSocket ping timeout after 119891 ms.
+[W 21:46:47.420 NotebookApp] WebSocket ping timeout after 119898 ms.
+[I 21:46:51.801 NotebookApp] Starting buffering for 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb:d48117a3b41f446d8a3f4ebc3b1a639b
+[I 21:46:52.422 NotebookApp] Starting buffering for 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0:b6046ca7f6b343288b592fb9e9f7a7d7
+[I 21:46:58.518 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[W 21:46:58.519 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[I 21:47:03.940 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[W 21:47:03.941 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[I 21:47:23.428 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[W 21:47:23.429 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[I 21:47:29.418 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[W 21:47:29.419 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[I 21:47:48.664 NotebookApp] Saving file at /Language.ipynb
+[I 21:48:03.294 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[W 21:48:03.295 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[I 21:48:14.253 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[W 21:48:14.253 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[I 21:48:23.004 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[W 21:48:23.005 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[I 21:49:48.727 NotebookApp] Saving file at /Language.ipynb
+[I 21:50:14.513 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[W 21:50:14.513 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[I 21:50:39.045 NotebookApp] Adapting to protocol v5.1 for kernel c28387b3-08cc-4d3b-bfca-fdd7478c78fd
+[I 21:51:48.598 NotebookApp] Saving file at /Language.ipynb
+[W 21:51:53.159 NotebookApp] WebSocket ping timeout after 119868 ms.
+[I 21:51:58.161 NotebookApp] Starting buffering for 14e84c45-3fb8-49d7-b586-73ee853d0119:067ab5623b7f4500888b02c3e5bf83ef
+[I 21:53:48.721 NotebookApp] Saving file at /Language.ipynb
+[I 21:55:48.695 NotebookApp] Saving file at /Language.ipynb
+[I 21:56:15.720 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[W 21:56:15.721 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[I 21:57:48.703 NotebookApp] Saving file at /Language.ipynb
+[I 21:58:15.544 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[W 21:58:15.545 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[I 21:58:44.617 NotebookApp] Adapting to protocol v5.1 for kernel 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb
+[I 21:58:52.750 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 21:59:48.750 NotebookApp] Saving file at /Language.ipynb
+[I 22:00:44.608 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 22:00:56.591 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 22:01:04.025 NotebookApp] Saving file at /Language.ipynb
+[I 22:01:07.843 NotebookApp] Starting buffering for c28387b3-08cc-4d3b-bfca-fdd7478c78fd:b4b018bc860e42e3b7916b38acb45e76
+[I 22:02:44.609 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 22:03:04.652 NotebookApp] Starting buffering for 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb:a8005f3e22a84c2598d38bd0f377c5c2
+[I 22:03:11.963 NotebookApp] Adapting to protocol v5.1 for kernel 14e84c45-3fb8-49d7-b586-73ee853d0119
+[I 22:03:36.816 NotebookApp] Adapting to protocol v5.1 for kernel 14e84c45-3fb8-49d7-b586-73ee853d0119
+[I 22:05:12.680 NotebookApp] Saving file at /Topic3_Time.ipynb
+[W 22:09:06.817 NotebookApp] WebSocket ping timeout after 119888 ms.
+[I 22:31:38.692 NotebookApp] Adapting to protocol v5.1 for kernel 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb
+[I 22:31:39.681 NotebookApp] Adapting to protocol v5.1 for kernel 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0
+[I 22:31:39.683 NotebookApp] Restoring connection for 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0:b6046ca7f6b343288b592fb9e9f7a7d7
+[I 22:36:17.845 NotebookApp] Saving file at /Topic5_Graph.ipynb
+[W 22:36:17.846 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[W 22:40:41.965 NotebookApp] WebSocket ping timeout after 119899 ms.
+[W 22:40:44.416 NotebookApp] WebSocket ping timeout after 119892 ms.
+[I 22:40:46.968 NotebookApp] Starting buffering for 14e84c45-3fb8-49d7-b586-73ee853d0119:d3087fa2ddae4486882ecd64771a6c10
+[I 22:40:49.418 NotebookApp] Starting buffering for b4784549-d373-4430-bdcc-727d8c857adb:6b00d18aef0e4187817c9d7543187d46
+[W 22:41:08.695 NotebookApp] WebSocket ping timeout after 119902 ms.
+[W 22:41:09.684 NotebookApp] WebSocket ping timeout after 119975 ms.
+[I 22:41:13.697 NotebookApp] Starting buffering for 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb:d48117a3b41f446d8a3f4ebc3b1a639b
+[I 22:41:14.686 NotebookApp] Starting buffering for 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0:b6046ca7f6b343288b592fb9e9f7a7d7
+[I 23:19:44.318 NotebookApp] Adapting to protocol v5.1 for kernel 14e84c45-3fb8-49d7-b586-73ee853d0119
+[I 23:19:44.319 NotebookApp] Restoring connection for 14e84c45-3fb8-49d7-b586-73ee853d0119:d3087fa2ddae4486882ecd64771a6c10
+[I 23:19:46.315 NotebookApp] Adapting to protocol v5.1 for kernel b4784549-d373-4430-bdcc-727d8c857adb
+[I 23:19:46.317 NotebookApp] Restoring connection for b4784549-d373-4430-bdcc-727d8c857adb:6b00d18aef0e4187817c9d7543187d46
+[I 23:24:42.655 NotebookApp] Kernel started: bb9ce061-7ee9-4a22-855e-2ca72d95bd5a
+[I 23:24:43.233 NotebookApp] Adapting to protocol v5.1 for kernel bb9ce061-7ee9-4a22-855e-2ca72d95bd5a
+[I 23:24:52.617 NotebookApp] Adapting to protocol v5.1 for kernel 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0
+[I 23:24:52.618 NotebookApp] Restoring connection for 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0:b6046ca7f6b343288b592fb9e9f7a7d7
+[I 23:24:52.683 NotebookApp] Adapting to protocol v5.1 for kernel 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb
+[I 23:24:52.684 NotebookApp] Restoring connection for 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb:d48117a3b41f446d8a3f4ebc3b1a639b
+[W 23:24:52.777 NotebookApp] delete /EntryDifficulty.ipynb
+[I 23:24:59.805 NotebookApp] Kernel started: 2e488f3d-1b43-43ff-be74-a732c0ebd395
+[I 23:25:00.391 NotebookApp] Adapting to protocol v5.1 for kernel 2e488f3d-1b43-43ff-be74-a732c0ebd395
+[I 23:25:06.468 NotebookApp] Starting buffering for 2e488f3d-1b43-43ff-be74-a732c0ebd395:110b55424bc64c6e9706d49f2e312073
+[I 23:25:09.793 NotebookApp] Adapting to protocol v5.1 for kernel 2e488f3d-1b43-43ff-be74-a732c0ebd395
+[I 23:25:20.911 NotebookApp] Starting buffering for 2e488f3d-1b43-43ff-be74-a732c0ebd395:ec9498cfd8e342aab2110f81ac17982d
+[I 23:25:30.043 NotebookApp] Adapting to protocol v5.1 for kernel c28387b3-08cc-4d3b-bfca-fdd7478c78fd
+[I 23:25:37.256 NotebookApp] Saving file at /Topic4_Language.ipynb
+[I 23:25:38.011 NotebookApp] Starting buffering for c28387b3-08cc-4d3b-bfca-fdd7478c78fd:542e3a347744481884b997a8db772983
+[I 23:25:51.337 NotebookApp] Kernel started: e603bf34-3b0f-4c82-9395-dc158ccd1e78
+[I 23:25:51.928 NotebookApp] Adapting to protocol v5.1 for kernel e603bf34-3b0f-4c82-9395-dc158ccd1e78
+[I 23:25:52.938 NotebookApp] Starting buffering for e603bf34-3b0f-4c82-9395-dc158ccd1e78:d030f98d588146a68d5aa87d888b0fc7
+[I 23:25:54.628 NotebookApp] Kernel started: d2ebd14b-03cf-4df2-873b-2b9a5ecee47e
+[I 23:25:55.211 NotebookApp] Adapting to protocol v5.1 for kernel d2ebd14b-03cf-4df2-873b-2b9a5ecee47e
+[I 23:25:55.531 NotebookApp] Starting buffering for d2ebd14b-03cf-4df2-873b-2b9a5ecee47e:be73977f554e416c9ae9e7917c0184e4
+[I 23:25:59.312 NotebookApp] Kernel shutdown: e603bf34-3b0f-4c82-9395-dc158ccd1e78
+[W 23:25:59.314 NotebookApp] delete /Untitled.ipynb
+[W 23:25:59.316 NotebookApp] delete /Untitled1.ipynb
+[I 23:26:02.923 NotebookApp] Adapting to protocol v5.1 for kernel bb9ce061-7ee9-4a22-855e-2ca72d95bd5a
+[I 23:26:22.425 NotebookApp] Kernel started: 2c55cb79-589e-4a77-8d00-c47daaa1f2de
+[I 23:26:23.002 NotebookApp] Adapting to protocol v5.1 for kernel 2c55cb79-589e-4a77-8d00-c47daaa1f2de
+[I 23:27:43.339 NotebookApp] Saving file at /Playground_Xiaofei.ipynb
+[I 23:27:44.533 NotebookApp] Starting buffering for 2c55cb79-589e-4a77-8d00-c47daaa1f2de:2b8437b7ac974a8b8f7f96cd2cd2d665
+[I 23:30:02.736 NotebookApp] Saving file at /Topic6_Cluster.ipynb
+[I 23:32:03.656 NotebookApp] Saving file at /Topic6_Cluster.ipynb
+[I 23:34:02.762 NotebookApp] Saving file at /Topic6_Cluster.ipynb
+[I 23:36:02.749 NotebookApp] Saving file at /Topic6_Cluster.ipynb
+[I 23:38:03.551 NotebookApp] New terminal with automatic name: 3
+[I 23:38:04.021 NotebookApp] Saving file at /Topic6_Cluster.ipynb
+[I 23:40:03.813 NotebookApp] Saving file at /Topic6_Cluster.ipynb
+[I 23:48:03.811 NotebookApp] Saving file at /Topic6_Cluster.ipynb
+[I 00:05:47.167 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 00:06:14.819 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 00:07:46.898 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 00:09:46.770 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 00:09:47.437 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 00:09:54.304 NotebookApp] Kernel interrupted: 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0
+[I 00:11:47.172 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 00:16:10.718 NotebookApp] Starting buffering for b4784549-d373-4430-bdcc-727d8c857adb:6b00d18aef0e4187817c9d7543187d46
+[I 00:16:25.996 NotebookApp] Kernel shutdown: 2c55cb79-589e-4a77-8d00-c47daaa1f2de
+[I 00:16:27.837 NotebookApp] Kernel shutdown: d2ebd14b-03cf-4df2-873b-2b9a5ecee47e
+[I 00:16:34.010 NotebookApp] Kernel shutdown: 2e488f3d-1b43-43ff-be74-a732c0ebd395
+[I 00:16:36.681 NotebookApp] Kernel shutdown: dd0613d5-eca0-4219-939a-58eee091b69e
+[I 00:16:38.769 NotebookApp] Kernel shutdown: 3e0d9034-4a65-475d-a98b-62f14464b61c
+[I 00:16:53.495 NotebookApp] Kernel shutdown: d76dc335-641e-4419-b3af-031a19c5c59a
+[I 00:16:57.263 NotebookApp] Kernel shutdown: 601df9f7-b7d5-42ef-8bc5-75c5ae67ffc4
+[I 00:16:58.538 NotebookApp] Kernel shutdown: 913f7512-f473-47dc-ad16-1762b2bd35ef
+[I 00:17:01.681 NotebookApp] Kernel shutdown: c28387b3-08cc-4d3b-bfca-fdd7478c78fd
+[W 00:17:19.645 NotebookApp] Notebook Topic5_Graph.ipynb is not trusted
+[I 00:17:20.398 NotebookApp] Adapting to protocol v5.1 for kernel b4784549-d373-4430-bdcc-727d8c857adb
+[I 00:19:13.211 NotebookApp] Starting buffering for b4784549-d373-4430-bdcc-727d8c857adb:a0df62d11ac2451a85725576d0377d9b
+[I 00:19:41.552 NotebookApp] Adapting to protocol v5.1 for kernel c7c4ca0f-8434-4125-881d-a6681e2a21e2
+[I 00:21:41.623 NotebookApp] Saving file at /Topic2_Revisions.ipynb
+[I 00:23:41.496 NotebookApp] Saving file at /Topic2_Revisions.ipynb
+[I 00:25:42.528 NotebookApp] Saving file at /Topic2_Revisions.ipynb
+[W 00:56:14.321 NotebookApp] WebSocket ping timeout after 111254 ms.
+[I 00:56:19.323 NotebookApp] Starting buffering for 14e84c45-3fb8-49d7-b586-73ee853d0119:d3087fa2ddae4486882ecd64771a6c10
+[W 00:56:41.555 NotebookApp] WebSocket ping timeout after 119914 ms.
+[I 00:56:46.558 NotebookApp] Starting buffering for c7c4ca0f-8434-4125-881d-a6681e2a21e2:b2ecce33f687409b826c582e4a50e85e
+[I 01:09:42.432 NotebookApp] Adapting to protocol v5.1 for kernel 14e84c45-3fb8-49d7-b586-73ee853d0119
+[I 01:09:42.433 NotebookApp] Restoring connection for 14e84c45-3fb8-49d7-b586-73ee853d0119:d3087fa2ddae4486882ecd64771a6c10
+[I 01:10:03.465 NotebookApp] Adapting to protocol v5.1 for kernel c7c4ca0f-8434-4125-881d-a6681e2a21e2
+[I 01:10:03.466 NotebookApp] Restoring connection for c7c4ca0f-8434-4125-881d-a6681e2a21e2:b2ecce33f687409b826c582e4a50e85e
+[I 01:16:25.847 NotebookApp] Adapting to protocol v5.1 for kernel 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0
+[I 01:16:33.825 NotebookApp] Kernel interrupted: bb9ce061-7ee9-4a22-855e-2ca72d95bd5a
+[I 01:18:03.128 NotebookApp] Saving file at /Topic6_Cluster.ipynb
+[I 01:18:26.222 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 01:20:02.977 NotebookApp] Saving file at /Topic6_Cluster.ipynb
+[I 01:22:02.986 NotebookApp] Saving file at /Topic6_Cluster.ipynb
+[I 01:24:02.986 NotebookApp] Saving file at /Topic6_Cluster.ipynb
+[I 01:26:02.983 NotebookApp] Saving file at /Topic6_Cluster.ipynb
+[I 01:28:03.925 NotebookApp] Saving file at /Topic6_Cluster.ipynb
+[I 01:30:03.009 NotebookApp] Saving file at /Topic6_Cluster.ipynb
+[I 01:32:03.023 NotebookApp] Saving file at /Topic6_Cluster.ipynb
+[I 01:34:03.156 NotebookApp] Saving file at /Topic6_Cluster.ipynb
+[I 01:36:11.935 NotebookApp] Starting buffering for 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0:b6046ca7f6b343288b592fb9e9f7a7d7
+[I 01:36:13.855 NotebookApp] Adapting to protocol v5.1 for kernel 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0
+[I 01:38:14.018 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 01:40:13.920 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 01:42:14.029 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 01:46:47.808 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 01:50:14.466 NotebookApp] Saving file at /Topic1_Metadata.ipynb
+[I 01:58:54.979 NotebookApp] Starting buffering for c7c4ca0f-8434-4125-881d-a6681e2a21e2:b2ecce33f687409b826c582e4a50e85e
+[I 01:58:57.098 NotebookApp] Starting buffering for 14e84c45-3fb8-49d7-b586-73ee853d0119:d3087fa2ddae4486882ecd64771a6c10
+[I 02:15:47.722 NotebookApp] Starting buffering for 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb:d48117a3b41f446d8a3f4ebc3b1a639b
+[I 02:15:50.263 NotebookApp] Adapting to protocol v5.1 for kernel 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb
+[I 02:16:02.604 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 02:16:08.980 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 02:16:18.857 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 02:17:12.995 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 02:17:50.062 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 02:19:50.242 NotebookApp] Saving file at /Topic7_Category.ipynb
+[I 02:21:54.290 NotebookApp] Starting buffering for 5b7d8d3a-a4b3-426b-93a3-1e07b0137feb:a3485bdca9c14fbdbf732de6f7bc9743
+[I 02:21:54.803 NotebookApp] Starting buffering for 59ef6948-4364-4d6b-b76b-ad8f37aa5ec0:89afcb834e01467a817d86823c9b212a
+[I 02:22:07.131 NotebookApp] Saving file at /Topic6_Cluster.ipynb
